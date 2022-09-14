@@ -1,0 +1,1943 @@
+iata,name,latitude,longitude
+SYD,Sydney Kingsford Smith International Airport,-33.94609833,151.177002
+MEL,Melbourne International Airport,-37.673302,144.843002
+BNE,Brisbane International Airport,-27.38419914,153.1170044
+PER,Perth International Airport,-31.94029999,115.9670029
+CNS,Cairns International Airport,-16.88579941,145.7550049
+ADL,Adelaide International Airport,-34.945,138.531006
+DRW,Darwin International Airport,-12.41469955,130.8769989
+OOL,Gold Coast Airport,-28.1644001,153.5050049
+CBR,Canberra International Airport,-35.30690002,149.1950073
+ASP,Alice Springs Airport,-23.80669975,133.9019928
+HBA,Hobart International Airport,-42.83610153,147.5099945
+LST,Launceston Airport,-41.54529953,147.2140045
+BWU,Sydney Bankstown Airport,-33.92440033,150.9880066
+AYQ,Ayers Rock Connellan Airport,-25.1861,130.975998
+AVV,Avalon Airport,-38.039398,144.468994
+TSV,Townsville Airport,-19.25250053,146.7649994
+MCY,Sunshine Coast Airport,-26.6033,153.091003
+MBW,Melbourne Moorabbin Airport,-37.97579956,145.102005
+MQL,Mildura Airport,-34.22919846,142.0859985
+ROK,Rockhampton Airport,-23.38190079,150.4750061
+CDU,Camden Airport,-34.04029846,150.6869965
+JAD,Perth Jandakot Airport,-32.09749985,115.8809967
+HTI,Hamilton Island Airport,-20.35810089,148.9519959
+MEB,Melbourne Essendon Airport,-37.7281,144.901993
+TMW,Tamworth Airport,-31.08390045,150.8470001
+BME,Broome International Airport,-17.94470024,122.2320023
+,Adelaide Parafield Airport,-34.79330063,138.6329956
+ACF,Brisbane Archerfield Airport,-27.57029915,153.0079956
+NTL,Newcastle Airport,-32.79499817,151.8339996
+KGC,Kingscote Airport,-35.71390152,137.5209961
+BNK,Ballina Byron Gateway Airport,-28.83390045,153.5619965
+CFS,Coffs Harbour Airport,-30.32060051,153.1159973
+KGI,Kalgoorlie Boulder Airport,-30.7894001,121.461998
+SWH,Swan Hill Airport,-35.37580109,143.5330048
+CES,Cessnock Airport,-32.787498,151.341995
+BXG,Bendigo Airport,-36.73939896,144.3300018
+PUG,Port Augusta Airport,-32.50690079,137.7169952
+BHQ,Broken Hill Airport,-32.00139999,141.4720001
+WGA,Wagga Wagga City Airport,-35.16529846,147.4660034
+ECH,Echuca Airport,-36.15719986,144.7619934
+SHT,Shepparton Airport,-36.42890167,145.3930054
+RTS,Rottnest Island Airport,-32.006699,115.540001
+MTL,Maitland Airport,-32.701265,151.492912
+BUY,Bunbury Airport,-33.37829971,115.677002
+WOL,Wollongong Airport,-34.56110001,150.7890015
+MGB,Mount Gambier Airport,-37.74560165,140.7850037
+BHS,Bathurst Airport,-33.40940094,149.6519928
+BWT,Wynyard Airport,-40.99890137,145.7310028
+GET,Geraldton Airport,-28.796101,114.707001
+MKY,Mackay Airport,-21.17169952,149.1799927
+WGT,Wangaratta Airport,-36.41579819,146.3070068
+TGN,Latrobe Valley Airport,-38.207199,146.470001
+,Murray Field,-32.50830078,115.8420029
+,Redcliffe Airport,-27.20669937,153.0679932
+CPD,Coober Pedy Airport,-29.04000092,134.720993
+ARM,Armidale Airport,-30.52809906,151.6170044
+BDB,Bundaberg Airport,-24.90390015,152.3190002
+DPO,Devonport Airport,-41.16970062,146.4299927
+KTA,Karratha Airport,-20.71220016,116.7730026
+KNX,Kununurra Airport,-15.77810001,128.7079926
+LSY,Lismore Airport,-28.83029938,153.2599945
+ISA,Mount Isa Airport,-20.66390038,139.4889984
+PKE,Parkes Airport,-33.13140106,148.2389984
+CWT,Cowra Airport,-33.84469986,148.6490021
+DGE,Mudgee Airport,-32.5625,149.6109924
+,Yarrawonga Airport,-36.02890015,146.029007
+,Bacchus Marsh Airport,-37.73333333,144.4216667
+BQB,Busselton Regional Airport,-33.68842316,115.4015961
+MQZ,Margaret River Airport,-33.93059921,115.0999985
+,Serpentine Airport,-32.39496613,115.8709869
+ALH,Albany Airport,-34.94329834,117.8089981
+ABX,Albury Airport,-36.06779861,146.9579926
+GFF,Griffith Airport,-34.25080109,146.0670013
+MIM,Merimbula Airport,-36.90859985,149.901001
+MRZ,Moree Airport,-29.49889946,149.8450012
+PHE,Port Hedland International Airport,-20.37779999,118.6259995
+PQQ,Port Macquarie Airport,-31.43580055,152.8630066
+GUL,Goulburn Airport,-34.81029892,149.7259979
+QRM,Narromine Airport,-32.21469879,148.2250061
+FRB,Forbes Airport,-33.363602,147.934998
+OAG,Orange Airport,-33.38169861,149.1329956
+NSO,Scone Airport,-32.03720093,150.8320007
+CUD,Caloundra Airport,-26.79999924,153.1000061
+,Hobart Cambridge Airport,-42.8266983,147.4750061
+,Ballarat Airport,-37.51169968,143.7910004
+,Leongatha Airport,-38.49309921,145.8600006
+,Tooradin Airport,-38.21670151,145.427002
+,Kyneton Airport,-37.22626209,144.4472981
+BRK,Bourke Airport,-30.03919983,145.9519958
+BVI,Birdsville Airport,-25.89749908,139.3480072
+CTN,Cooktown Airport,-15.44470024,145.1840057
+WIN,Winton Airport,-22.36359978,143.0859985
+CED,Ceduna Airport,-32.13059998,133.7100067
+CVQ,Carnarvon Airport,-24.880211,113.67174
+CTL,Charleville Airport,-26.41329956,146.2619934
+LEA,Learmonth Airport,-22.23559952,114.0889969
+HVB,Hervey Bay Airport,-25.31889915,152.8800049
+LRE,Longreach Airport,-23.43420029,144.2799988
+PBO,Paraburdoo Airport,-23.17110062,117.7450027
+PLO,Port Lincoln Airport,-34.6053009,135.8800049
+RMA,Roma Airport,-26.54500008,148.7749939
+ABM,Northern Peninsula Airport,-10.9508,142.459
+LDH,Lord Howe Island Airport,-31.53829956,159.0769959
+KTR,Tindal Airport,-14.52110004,132.378006
+XRH,RAAF Base Richmond,-33.600601,150.781006
+TEM,Temora Airport,-34.42139816,147.5119934
+PPI,Port Pirie Airport,-33.23889923,137.9949951
+RMK,Renmark Airport,-34.19639969,140.673996
+BSJ,Bairnsdale Airport,-37.88750076,147.5679932
+,Waikerie Airport,-34.18389893,140.0310059
+,Mangalore Airport,-36.88830185,145.1840057
+XCO,Colac Airport,-38.2867012,143.6799927
+,Coral Bay Airport,-23.12999916,113.7770004
+,Leeuwin Estate Airport,-34.020973,115.064471
+,Aldinga Airport,-35.29000092,138.4900055
+,Innamincka Township Airport,-27.74169922,140.7449951
+,Tyabb Airport,-38.26670074,145.1750031
+,"RAAF Williams, Point Cook Base",-37.932201,144.753006
+CAZ,Cobar Airport,-31.53829956,145.7940063
+KNS,King Island Airport,-39.87749863,143.878006
+PTJ,Portland Airport,-38.31809998,141.470993
+MKR,Meekatharra Airport,-26.61170006,118.5479965
+CNJ,Cloncurry Airport,-20.66860008,140.5039978
+DBO,Dubbo City Regional Airport,-32.21670151,148.5749969
+NAA,Narrabri Airport,-30.31920052,149.8269959
+NTN,Normanton Airport,-17.68409,141.069664
+PPP,Proserpine Whitsunday Coast Airport,-20.49500084,148.552002
+WYA,Whyalla Airport,-33.05889893,137.5140076
+HGD,Hughenden Airport,-20.81500053,144.2250061
+KRB,Karumba Airport,-17.45669937,140.8300018
+OLP,Olympic Dam Airport,-30.48500061,136.8769989
+,RAAF Base Amberley,-27.6406,152.712006
+GUH,Gunnedah Airport,-30.96109962,150.2510071
+KPS,Kempsey Airport,-31.07439995,152.7700043
+TYB,Tibooburra Airport,-29.4510994,142.0579987
+BLN,Benalla Airport,-36.55189896,146.0070038
+HLT,Hamilton Airport,-37.64889908,142.0650024
+FOS,Forrest Airport,-30.83810043,128.1150055
+DNQ,Deniliquin Airport,-35.55939865,144.9459991
+IVR,Inverell Airport,-29.88829994,151.1439972
+SXE,West Sale Airport,-38.090827,146.965335
+TWB,Toowoomba Airport,-27.542801,151.916
+CBX,Condobolin Airport,-33.06439972,147.2089996
+,Hoxton Park Airport,-33.90969849,150.852005
+NYN,Nyngan Airport,-31.55109978,147.2030029
+,Crookwell Airport,-34.5,149.4499969
+BOX,Borroloola Airport,-16.07530022,136.302002
+,Katherine Gorge Airport,-14.38860035,132.3930054
+GOO,Goondiwindi Airport,-28.52140045,150.3200073
+LZR,Lizard Island Airport,-14.673273,145.454571
+SHQ,Southport Airport,-27.922054,153.372143
+,Goolwa Airport,-35.4817009,138.7519989
+WMB,Warrnambool Airport,-38.29529953,142.4470062
+,Barwon Heads Airport,-38.258056,144.4275
+,Milawa Vineyard Airport,-36.45619687,146.433063
+,Lethbridge Airpark,-37.921233,144.103058
+XMC,Mallacoota Airport,-37.59830093,149.7200012
+,Augusta Airport,-34.36669922,115.1500015
+,Wagin Airport,-33.33330154,117.3669968
+,Wave Rock Airport,-32.42670059,118.9079971
+,Coldstream Airport,-37.72766876,145.408371
+CIE,Collie Airport,-33.36669922,116.2170029
+,Dwellingup Airstrip,-32.69269943,116.0749969
+,Mount Beauty Airport,-36.73157568,147.1689034
+NRG,Narrogin Airport,-32.93000031,117.0800018
+,Warnervale Airport,-33.240278,151.429722
+,Wyalkatchem Airport,-31.2026341,117.3788738
+OKY,Oakey Airport,-27.41139984,151.7350006
+BEU,Bedourie Airport,-24.34609985,139.4600067
+BCI,Barcaldine Airport,-23.56529999,145.3070068
+BKQ,Blackall Airport,-24.42779922,145.4290009
+CUQ,Coen Airport,-13.761133,143.113311
+OOM,Cooma Snowy Mountains Airport,-36.30059814,148.973999
+EPR,Esperance Airport,-33.684399,121.822998
+HID,Horn Island Airport,-10.58640003,142.2899933
+IRG,Lockhart River Airport,-12.7869,143.304993
+MYA,Moruya Airport,-35.89780045,150.1439972
+MHU,Mount Hotham Airport,-37.04750061,147.3339996
+ZNE,Newman Airport,-23.4178009,119.8030014
+GOV,Gove Airport,-12.26939964,136.8179932
+TCA,Tennant Creek Airport,-19.63439941,134.1829987
+WEI,Weipa Airport,-12.67860031,141.9250031
+,RAAF Base Pearce,-31.6678009,116.0149994
+BUC,Burketown Airport,-17.74860001,139.5339966
+JCK,Julia Creek Airport,-20.66830063,141.7230072
+AUU,Aurukun Airport,-13.354067,141.72065
+FLS,Flinders Island Airport,-40.09170151,147.9929962
+MBH,Maryborough Airport,-25.5133,152.714996
+CMD,Cootamundra Airport,-34.62390137,148.0279999
+GLI,Glen Innes Airport,-29.67499924,151.6889954
+HXX,Hay Airport,-34.53139877,144.8300018
+NOA,Nowra Airport,-34.94889832,150.5370026
+KGY,Kingaroy Airport,-26.5807991,151.8410034
+MRG,Mareeba Airport,-17.06920052,145.4190063
+LGH,Leigh Creek Airport,-30.59830093,138.4259949
+ARY,Ararat Airport,-37.30939865,142.9889984
+CYG,Corryong Airport,-36.18280029,147.8880005
+HSM,Horsham Airport,-36.66970062,142.1730042
+SWC,Stawell Airport,-37.07170105,142.7409973
+,RAAF Base Edinburgh,-34.70249939,138.6210022
+TRO,Taree Airport,-31.8885994,152.5140076
+TCW,Tocumwal Airport,-35.81169891,145.6080017
+,Bindook NDB,-34.166698,150.100006
+,Boomi Airport,-28.73329926,149.5829926
+CRB,Collarenebri Airport,-29.52169991,148.5820007
+,Holbrook Airport,-35.68330002,147.3170013
+,Jerilderie Airport,-35.36999893,145.7250061
+,Lake Cargelligo Airport,-33.27830124,146.3699951
+,South Grafton Airport,-29.70829964,152.9279938
+,The Oaks Airport,-34.08390045,150.5590057
+JAB,Jabiru Airport,-12.6583004,132.8930054
+DLV,Delissaville Airport,-12.55000019,130.6849976
+,Mararanka Homestead Airport,-14.93169975,133.125
+LLG,Chillagoe Airport,-17.14279938,144.529007
+CXT,Charters Towers Airport,-20.04310036,146.272995
+GYP,Gympie Airport,-26.28280067,152.7019958
+,Adels Grove Airport,-18.70000076,138.5330048
+,Caboolture Airport,-27.08329964,152.9830017
+NSV,Noosa Airport,-26.42329979,153.0630035
+JHQ,Shute Harbour Airport,-20.277221,148.755556
+WDI,Wondai Airport,-26.2833004,151.8580017
+KBY,Streaky Bay Airport,-32.83580017,134.2929993
+,Arkaroola Airport,-30.40670013,139.345993
+,Loxton Airport,-34.47499847,140.6629944
+,Murray Bridge Airport,-35.06669998,139.227005
+,William Creek Airport,-28.90670013,136.3419952
+,Strathalbyn Airport,-35.31169891,138.9900055
+,Bathurst Harbour Airport,-43.42070007,146.1560059
+,Maryborough Airport,-37.03310013,143.7089996
+,Castlemaine Airport,-37.13330078,144.1670074
+GEX,Geelong Airport,-38.22499847,144.3329926
+,Locksley Field,-36.81499863,145.3480072
+,Lilydale Airport,-37.69169998,145.3670044
+RBS,Orbost Airport,-37.79000092,148.6100006
+,Porepunkah Airport,-36.71773071,146.8900394
+,Elmore Airport,-36.49017938,144.6471977
+DOX,Dongara Airport,-29.298128,114.927334
+EXM,Exmouth Airport,-22.0333004,114.0999985
+JUR,Jurien Bay Airport,-30.301629,115.055914
+,Northam Airport,-31.62999916,116.6829987
+,Catholic Agricultural College Bindoon Airstrip,-31.34029961,116.1880035
+,Kulin Airport,-32.67219925,118.1689987
+,Lily Dutch Windmill Airstrip,-34.22500229,118.2161484
+NKB,Noonkanbah Airport,-18.49469948,124.8519974
+,Border Village Airport,-31.63940048,129.0119934
+,Bremer Bay Airport,-34.38056183,119.3319473
+,Karijini National Park,-22.4871006,118.4680023
+HWK,Wilpena Pound Airport,-31.85590744,138.4680786
+,Hubert Wilkins Airstrip,-33.19208451,138.6155319
+LFP,Lakefield Airport,-14.9207,144.203
+,Mangrove Mountain Airport,-33.285122,151.212738
+,Melton Airport,-37.61669922,144.5670013
+,Kyabram Airport,-36.33248237,144.9720669
+,Riddell Airport,-37.48,144.718002
+,Penfield Airfield,-37.51330185,144.697998
+,Torquay Airport,-38.29999924,144.3650055
+,Truro Flat Airpark,-34.39830017,139.3849945
+,Midway,-32.672544,115.789526
+,White Gum Air Park,-31.863947,116.936094
+CNB,Coonamble Airport,-30.98329926,148.3760071
+LHG,Lightning Ridge Airport,-29.45669937,147.9839935
+BQL,Boulia Airport,-22.91329956,139.8999939
+CMA,Cunnamulla Airport,-28.03000069,145.621994
+XTG,Thargomindah Airport,-27.9864006,143.8110046
+WNR,Windorah Airport,-25.41309929,142.6670074
+THG,Thangool Airport,-24.4939003,150.576004
+MJK,Shark Bay Airport,-25.89389992,113.5770035
+ELC,Elcho Island Airport,-12.01939964,135.5709991
+EMD,Emerald Airport,-23.56749916,148.1790009
+GLT,Gladstone Airport,-23.869699,151.223007
+GTE,Groote Eylandt Airport,-13.97500038,136.4600067
+LNO,Leonora Airport,-28.87809944,121.3150024
+MNG,Maningrida Airport,-12.05609989,134.2339935
+NRA,Narrandera Airport,-34.70220184,146.5119934
+DMD,Doomadgee Airport,-17.9403,138.822006
+ONG,Mornington Island Airport,-16.66250038,139.1779938
+PMK,Palm Island Airport,-18.75530052,146.5809937
+RCM,Richmond Airport,-20.70190048,143.1150055
+SRN,Strahan Airport,-42.15499878,145.2920074
+KAX,Kalbarri Airport,-27.692813,114.259169
+MCV,McArthur River Mine Airport,-16.44249916,136.0839996
+MGT,Milingimbi Airport,-12.09440041,134.8939972
+UMR,Woomera Airfield,-31.14419937,136.8170013
+,RAAF Base East Sale,-38.09889984,147.1490021
+BZD,Balranald Airport,-34.62360001,143.5780029
+GFN,Grafton Airport,-29.75939941,153.0299988
+WGE,Walgett Airport,-30.03280067,148.1260071
+NGA,Young Airport,-34.25559998,148.2480011
+RPM,Ngukurr Airport,-14.72280025,134.746994
+CVC,Cleve Airport,-33.70970154,136.5050049
+HTU,Hopetoun Airport,-35.71530151,142.3600006
+KRA,Kerang Airport,-35.75139999,143.9389954
+WKB,Warracknabeal Airport,-36.32109833,142.4190063
+DCN,RAAF Base Curtin,-17.58139992,123.8280029
+DRB,Derby Airport,-17.37000084,123.6610031
+TEF,Telfer Airport,-21.71500015,122.2289963
+ABH,Alpha Airport,-23.646099,146.584
+WWY,West Wyalong Airport,-33.93719864,147.1909943
+CSI,Casino Airport,-28.88279915,153.0670013
+EVH,Evans Head Aerodrome,-29.09329987,153.4199982
+,Mungindi Airport,-28.9666996,149.0579987
+UIR,Quirindi Airport,-31.49060059,150.5140076
+,Acacia Downs Airport,-31.41670036,141.8999939
+,Barraba Airport,-30.38330078,150.6000061
+,Biniguy Airport,-29.50499916,150.1920013
+,Bingara Airport,-29.79999924,150.5330048
+,Boggabri Airport,-30.7166996,150.0500031
+,Bombala Airport,-36.90499878,149.1820068
+,Cobden Airport,-38.326666,143.056666
+,Coleambally Airport,-34.79999924,145.8500061
+,Camden Haven Airport,-31.66500092,152.7420044
+CUG,Cudal Airport,-33.27830124,148.7630005
+,Gloucester Airport,-32.04999924,151.9830017
+,Inverell North Airport,-29.76670074,151.1670074
+,Katoomba Airport,-33.66830063,150.322998
+,Mittagong Airport,-34.46670151,150.5
+,Murwillumbah Airport,-28.33169937,153.4129944
+,Cooranbong Airport,-33.06011175,151.4618969
+BEO,Lake Macquarie Airport,-33.0667,151.647995
+,Peak Hill Airport,-32.75,148.1999969
+,Tottenham Airport,-32.24829865,147.3679962
+,Tyagarah Airport,-28.59469604,153.5511017
+WLC,Walcha Airport,-31,151.5670013
+,Warialda Airport,-29.5333004,150.5330048
+,Wentworth Airport,-34.0882988,141.8919983
+,Clare Station Airport,-33.4068985,143.9400024
+,Old Bar Heritage Airport,-31.96529961,152.5910034
+,Scotia Sanctuary Airport,-33.2071991,141.1730042
+,Cooranga Airport,-29.06669998,150.7669983
+AWP,Austral Downs Airport,-20.5,137.75
+,Batchelor Airport,-13.06669998,131.0330048
+HMG,Hermannsburg Airport,-23.93000031,132.8049927
+,Lucy Creek Airport,-22.4666996,136.2669983
+MFP,Manners Creek Airport,-22.10000038,137.9830017
+RRV,Robinson River Airport,-16.71829987,136.9450073
+,Barkly Wayside Inn Airport,-19.70919991,135.8190002
+GTT,Georgetown Airport,-18.30500031,143.5299988
+IFL,Innisfail Airport,-17.55940056,146.0119934
+SNH,Stanthorpe Airport,-28.62030029,151.9909973
+WAZ,Warwick Airport,-28.14940071,151.9429932
+ABG,Abingdon Downs Airport,-17.61669922,143.1670074
+AUD,Augustus Downs Airport,-18.51499939,139.878006
+AXC,Aramac Airport,-22.9666996,145.2420044
+,Boonah Airport,-28.01670074,152.6820068
+BCK,Bolwarra Airport,-17.38829994,144.1690063
+CML,Camooweal Airport,-19.9116993,138.125
+DJR,Dajarra Airport,-21.70829964,139.5330048
+DVP,Davenport Downs Airport,-24.14999962,141.1080017
+GGD,Gregory Downs Airport,-18.625,139.2330017
+GVP,Greenvale Airport,-18.9966,145.0136
+HIP,Headingly Airport,-21.33329964,138.2830048
+IFF,Iffley Airport,-18.89999962,141.2169952
+JUN,Jundah Airport,-24.8416996,143.0579987
+LWH,Lawn Hill Airport,-18.56830025,138.6349945
+,Mundubbera Airport,-25.5916996,151.3170013
+WLE,Miles Airport,-26.80830002,150.1750031
+,Moura Airport,-24.61170006,149.9949951
+OSO,Osborne Mine Airport,-22.08169937,140.5549927
+,Rainbow Beach Airport,-25.83329964,153.0670013
+ROH,Robinhood Airport,-18.84499931,143.7100067
+,Sweers Island Resort Airport,-17.12170029,139.5980072
+,Torrens Creek Airport,-20.7833004,145
+TDR,Theodore Airport,-24.99329948,150.0930023
+,Tambo Airport,-24.85000038,146.2830048
+UDA,Undara Airport,-18.20000076,144.6000061
+,Urandangi Airport,-21.59000015,138.3580017
+,Watts Bridge Airport,-27.09830093,152.4600067
+,Yalkulka Airport,-16.73329926,145.3329926
+,Logan Reserve Airport,-27.70829964,153.1049957
+BIP,Bulimba Airport,-16.88080025,143.4790039
+,Bowthorn Airport,-18.08329964,138.2749939
+,Heck Field Airport,-27.7675,153.339444
+,Hells Gate Airport,-17.4666996,138.3670044
+,Lorraine Station Airport,-22.5333004,143.5169983
+NAC,Naracoorte Airport,-36.98529816,140.7250061
+MOO,Moomba Airport,-28.09939957,140.1970062
+WUD,Wudinna Airport,-33.04330063,135.4470062
+,Balaklava Airport,-34.08430099,138.3339996
+,Cadney Homestead Airport,-27.9083004,134.0529938
+CCW,Cowell Airport,-33.66669846,136.8919983
+,Gawler Airport,-34.599934,138.719055
+,Kimba Airport,-33.09999847,136.4600067
+INM,Innamincka Airport,-27.70000076,140.7330017
+,Kadina Airport,-33.97669983,137.6600037
+,Kingston Airport,-36.82329941,139.875
+,Maitland Airport,-34.39279938,137.7169952
+RRE,Marree Airport,-29.66329956,138.0650024
+,Mount Dare Airport,-26.06170082,135.246994
+NUR,Nullabor Motel Airport,-31.44169998,130.9019928
+,Rawnsley Park Airport,-31.65352821,138.6095276
+,Tintinara Airport,-35.86669922,140.0670013
+ORR,Yorketown Airport,-35,137.6170044
+,Meningie Airport,-35.70000076,139.3329926
+,Cook Airport,-30.61829948,130.4060059
+HLS,St Helens Airport,-41.33670044,148.2819977
+,Waratah Airport,-41.45000076,145.5500031
+,Darlington Airport,-42.57274087,148.0691814
+,Mole Creek Airport,-41.53329849,146.3329926
+,Apollo Bay Airport,-38.77493023,143.6611748
+,Bridgewater Airport,-36.61669922,143.9499969
+,Bunyip Airport,-38.01670074,145.75
+,Charlton Airport,-36.25,143.3000031
+,Earlston Airport,-36.59628677,145.7218628
+,Gabo Island Airport,-37.56669998,149.8999939
+,Mitta Mitta Airport,-36.51387874,147.3590183
+,Lake Bolac Airport,-37.68330002,142.8829956
+,Lovely Banks Airport,-38.03329849,144.3329926
+,Mansfield Airport,-37.06669998,146.1170044
+,Phillip Island Airport,-38.52330017,145.3269958
+,Wallan Airport,-37.43330002,144.9880066
+,Yeaburn Airport,-37.17279816,145.3220062
+,Ceres Airport,-38.14830017,144.2579956
+,Chatsworth Airport,-37.83330154,142.7169952
+,Fish Creek Airport,-38.71500015,146.0529938
+,Lakes Entrance Airport,-37.87919998,147.9869995
+,Longwood Airport,-36.80780029,145.4570007
+OYN,Ouyen Airport,-35.08901243,142.3544884
+,Wilsons Promontory Airport,-39.1310997,146.4250031
+,Moonambel Airfield,-36.97166824,143.2861176
+,St Leonards Airfield,-38.17010117,144.6889954
+,Cunderdin Airport,-31.62220001,117.2170029
+MJP,Manjimup Airport,-34.26530075,116.1399994
+RVT,Ravensthorpe Airport,-33.79719925,120.2080002
+,Warburton Airport,-26.12829971,126.5830002
+,Beverley Airport,-32.13330078,116.9499969
+,Ballidu Airport,-30.59329987,116.7799988
+CGV,Caiguna Airport,-32.26499939,125.4929962
+,Cape Leveque Airport,-16.39830017,122.9319992
+,Forrestania Airport,-32.58000183,119.7030029
+,Golden Grove Airport,-28.764898,116.972656
+UBU,Kalumburu Airport,-14.28829956,126.6320038
+KNI,Katanning Airport,-33.71670151,117.6330032
+,Kojonup Airport,-33.76670074,117.1330032
+,Lawlers Airport,-28.08329964,120.5
+,Leeman Airport,-29.969953,114.983131
+,Lake Grace Airport,-33.13330078,118.4000015
+,Mount Augusta Airport,-24.29999924,116.9169998
+MBB,Marble Bar Airport,-21.16329956,119.8330002
+,Napier Downs Airport,-17.31669998,124.8499985
+,Narembeen Airport,-32.11669922,118.4169998
+,Quairading Airport,-32,117.4000015
+,Three Springs Airport,-29.52791093,115.8580399
+WIT,Wittenoom Airport,-22.21829987,118.3479996
+,Westonia Airport,-31.33329964,118.6669998
+,Myrup fly in estate Airport,-33.79370117,121.9580002
+,Wheeler Field,-32.787491,115.7894826
+,Preston Field - Blair Howe,-33.01879883,115.7009964
+,Billabong Road House Airport,-26.81669998,114.6169968
+,Cadjebut Airport,-18.70000076,125.9000015
+,Dalwallinu Airport,-30.20000076,116.6500015
+,Hillman Farm Airport,-33.26390076,116.8150024
+,Manfred Airport,-26.45000076,116.5500031
+,Mornington Station Airport,-17.39360046,126.2289963
+,Myroodan Station Airport,-18.11669922,124.2669983
+,Windjana Grove Airport,-17.42138759,124.925108
+,York Airport,-31.85510063,116.7990036
+,Abrolhos East Wallabi Island Airport,-28.43785,113.7355833
+LNH,Lake Nash Airport,-20.9807,137.9178
+,Atherton Airport,-17.26169968,145.5149994
+BYX,Baniyala Airport,-13.19810009,136.227005
+,Bungle Bungle Airport,-17.54529953,128.3070068
+DYW,Daly Waters Airport,-16.26469507,133.383379
+DYM,Diamantina Lakes Airport,-23.76169968,141.1450043
+DKI,Dunk Island Airport,-17.94169998,146.1399994
+,Euroa Aerodrome,-36.74470139,145.5130005
+GKL,Great Keppel Is Airport,-23.18330002,150.9420013
+HLV,Helenvale Airport,-15.6857996,145.2149963
+PEA,Penneshaw Airport,-35.75584629,137.9628754
+,Kapunda Airport,-34.25,138.9170074
+KBJ,Kings Canyon Airport,-24.26000023,131.4900055
+,Lake Clifton Airstrip,-32.79093552,115.6708832
+,Merton Airport,-36.967704,145.707616
+MYO,Camballin Airport,-18.12470055,124.2720032
+NBH,Nambucca Heads Airport,-30.64999962,153
+,Emkaytee (Unlic) Airport,-12.609664,131.054381
+OKB,Orchid Beach Airport,-24.95940018,153.3150024
+,Langley Park Airstrip,-31.96122932,115.8678665
+PHQ,The Monument Airport,-21.81110001,139.923996
+,Pinjarra Skydiving Airstrip,-32.6665196,115.8817452
+,Robe Airport,-37.17536363,139.8052311
+RBU,Roebourne Airport,-20.76169968,117.1569977
+,Romsey Airport,-37.391667,144.738333
+SGP,Shay Gap Airport,-20.42469978,120.1409988
+SIX,Singleton Airport,-32.600832,151.193056
+,Tenterfield Airport,-28.99155004,151.9301033
+,Thistle Island Airport,-35.02470016,136.1799927
+TYP,Tobermorey Airport,-22.25580025,137.9530029
+TPR,Tom Price Airport,-22.74600029,117.8690033
+,Warkworth Airport,-32.54912838,151.0242462
+,Wickham Airport,-20.67579239,117.1250725
+WON,Wondoola Airport,-18.57500076,140.8919983
+KYI,Yalata Mission Airport,-31.47060013,131.8249969
+,Newcastle Westpac Base Heliport,-32.92029953,151.7299957
+,"RAAF Williams, Laverton Base",-37.86360168,144.7460022
+,Koralta Station Airpirt,-31.624885,142.296143
+,Gundaroo Airport,-35.0505,149.2559
+,Robertson Barracks Heliport,-12.4255,130.9732
+BHT,Brighton Downs Airport,-23.36388889,141.5627778
+,Stirling Range Retreat,-34.31240082,118.185997
+,Abrolhos North Island,-28.29981667,113.5958
+,Abrolhos Rat Island,-28.7197,113.7845
+,Nambung Station Private Airstrip,-30.577798,115.225055
+,Ballina - Kingsford Smith Park Helipad,-28.8692,153.5713
+,Baralaba,-24.19357,149.843166
+,Millstream Station Field,-21.623761,117.081299
+CKW,Graeme Rowley Aerodrome,-22.3543,119.6426
+KFE,Fortescue - Dave Forrest Aerodrome,-22.290754,119.437143
+,Royal Darwin Hospital Helipad,-12.35284,130.881645
+,Denman Farm Strip,-32.379816,150.695005
+,Drouin Airport,-38.208972,145.831097
+,Valley View,-28.699218,114.911043
+,Gold Coast University Hospital Helipad,-27.9595,153.382
+,Somersby Airstrip,-33.3681,151.3
+,Overlander Airport,-26.407707,114.45385
+,Maitraya Resort Airstrip,-34.98746434,118.055563
+SLJ,Solomon Airport,-22.2554,117.7627
+,Kilcoy Airfield,-26.97138889,152.5697222
+,YKCY,-26.971197,152.566855
+,St George Hospital Helipad,-33.96807,151.13368
+LYT,Lady Elliot Island Airstrip,-24.1129,152.7156
+,Corunna Downs (WW II),-21.43613,119.790754
+,Moree Hospital Helipad,-29.47089,149.84054
+,Swan Reach Airport,-34.556053,139.592156
+WTB,Toowoomba Wellcamp Airport,-27.558332,151.793335
+WHL,Welshpool Airport,-38.682382,146.445331
+BLT,Blackwater Airport,-23.60309982,148.8070068
+ULP,Quilpie Airport,-26.61219978,144.253006
+LER,Leinster Airport,-27.84329987,120.7030029
+MMG,Mount Magnet Airport,-28.11610031,117.8420029
+WUN,Wiluna Airport,-26.62919998,120.2210007
+KWM,Kowanyama Airport,-15.48560047,141.7510071
+MOV,Moranbah Airport,-22.05780029,148.0769959
+HIS,Hayman Island Resort Seaplane Base,-20.05999947,148.8809967
+KFG,Kalkgurung Airport,-17.43190002,130.8079987
+LEL,Lake Evella Airport,-12.49890041,135.8059998
+RAM,Ramingining Airport,-12.35639954,134.897995
+VCD,Victoria River Downs Airport,-16.4021244,131.0049744
+SGO,St George Airport,-28.04969978,148.5950012
+BDD,Badu Island Airport,-10.14999962,142.1734
+CNC,Coconut Island Airport,-10.05000019,143.0700073
+GIC,Boigu Airport,-9.232780457,142.2180023
+GYL,Argyle Airport,-16.6369,128.451004
+LVO,Laverton Airport,-28.61359978,122.4240036
+NLF,Darnley Island Airport,-9.583330154,143.7669983
+HOK,Hooker Creek Airport,-18.33670044,130.6380005
+UBB,Mabuiag Island Airport,-9.949999809,142.1829987
+KUG,Kubin Airport,-10.22500038,142.2180023
+MYI,Murray Island Airport,-9.916669846,144.0549927
+EDR,Pormpuraaw Airport,-14.896451,141.60908
+SBR,Saibai Island Airport,-9.378330231,142.625
+SYU,Warraber Island Airport,-10.20829964,142.8249969
+XMY,Yam Island Airport,-9.901109695,142.776001
+OKR,Yorke Island Airport,-9.752801,143.405673
+BWQ,Brewarrina Airport,-29.97389984,146.8170013
+COJ,Coonabarabran Airport,-31.33250046,149.2669983
+CWW,Corowa Airport,-35.99470139,146.3569946
+TUM,Tumut Airport,-35.26279831,148.2409973
+QRR,Warren Airport,-31.73329926,147.8029938
+BRT,Bathurst Island Airport,-11.76920033,130.6199951
+GPN,Garden Point Airport,-11.40250015,130.4219971
+PKT,Port Keats Airport,-14.25,129.529007
+SNB,Snake Bay Airport,-11.42280006,130.654007
+CCL,Chinchilla Airport,-26.77499962,150.6170044
+CMQ,Clermont Airport,-22.7730999,147.6210022
+DRN,Dirranbandi Airport,-28.5916996,148.2169952
+DYA,Dysart Airport,-22.62220001,148.3639984
+SIO,Smithton Airport,-40.83499908,145.0839996
+FIZ,Fitzroy Crossing Airport,-18.18190002,125.5589981
+HCQ,Halls Creek Airport,-18.23390007,127.6699982
+WME,Mount Keith Airport,-27.28639984,120.5550003
+,Goodooga Airport,-29.07329941,147.3760071
+,Hillston Airport,-33.49330139,145.522995
+,Ivanhoe Airport,-32.88330078,144.3099976
+WIO,Wilcannia Airport,-31.52639961,143.375
+,Adaminaby Airport,-35.98329926,148.8000031
+,Ardlethan Airport,-34.36669922,146.8829956
+,Ashford Airport,-29.31669998,151.0500031
+,Baradine Airport,-30.95499992,149.0919952
+,Burren Junction Airport,-30.1583004,148.9750061
+,Buttabone Airport,-31.35829926,147.6329956
+,Byrock Airport,-30.66670036,146.3999939
+,Calga NDB,-33.403301,151.212006
+CLH,Coolah Airport,-31.77330017,149.6100006
+,Carinda Airport,-30.45829964,147.7079926
+,Cuthero Airport,-33.03329849,142.0169983
+,Dallas Airport,-34.56669998,146.1829987
+,Darnick Airport,-32.88330078,143.5829926
+,Euabalong Airport,-33.11669922,146.4499969
+,Elengerah Airport,-31.85000038,147.9830017
+,Eulalia Airport,-31.0333004,148.1750031
+FLY,Finley Airport,-35.66669846,145.5500031
+FOT,Forster (Wallis Is) Airport,-32.20420074,152.4790039
+,Fairview Airport,-32.78900146,148.7200012
+,Greenbah Airport,-30.12582779,149.4345703
+,Goolgowi Airport,-34,145.7169952
+,Goonoo Goonoo Airport,-31.31669998,150.9170074
+,Gilgandra Airport,-31.70330048,148.6380005
+,Glencoe Airport,-31.61669922,148.1999969
+,Harden Airport,-34.55749893,148.3880005
+,Haddon Rig Airport,-31.46879959,147.8950043
+,Jemalong Airport,-32.40999985,147.6699982
+QJD,Jindabyne Airport,-36.42670059,148.602005
+,Kayrunnera Airport,-30.68330002,142.5330048
+,Lake Keepit Airport,-30.89110342,150.5261493
+,Khancoban Airport,-36.21591997,148.1137428
+,Lambrook Airport,-31.10000038,149.9329987
+,Miralwyn Airport,-30.149,147.327
+,Mount Mcquoid NDB,-33.110001,151.138
+,Mount Sandon Airport,-31.38999939,151.4100037
+,Norwood Airport,-34.25,144.3329926
+,Nymagee Airport,-32.04999924,146.3170013
+,Pooncarie Airport,-33.36669922,142.5879974
+,Cooma/Polo Flat (Unlic) Airport,-36.22999954,149.1499939
+,Pilliga Airport,-30.36669922,148.8829956
+,Palmers Island/Yamba Airport,-29.44580078,153.2669983
+,Questa Park Airport,-30.39170074,143.1419983
+,Rosehill Heliport Airport,-33.83009664,151.0241389
+,Rugby Airport,-34.39170074,148.9750061
+,Ravensworth Airport,-34.63330078,144.2830048
+,Holsworthy (Military) Airport,-33.99499893,150.9519958
+,Talbingo Airport,-35.58330154,148.2830048
+,Trangie Airport,-31.9666996,148
+,The Grove Airport,-34.68600082,148.1040039
+,Tullamore Airport,-32.61669922,147.6000061
+,Tooraweenah Airport,-31.44169998,148.8999939
+,Wanaaring Airport,-29.7166996,144.1670074
+,Wallabadah Airport,-31.5333004,150.8670044
+,Wedderburn Airport,-34.18,150.808333
+,Wellington Airport,-32.46670151,148.9830017
+,White Cliffs Airport,-30.85330009,143.0720062
+,Wilton Airport,-34.23329926,150.6670074
+,Wee Jasper Airport,-35.26169968,148.6670074
+,Williamsdale Airport,-35.55939252,149.1301775
+,Weilmoringle Airport,-29.23329926,146.9329987
+WEW,Wee Waa Airport,-30.25830078,149.4080048
+,Yass Airport,-34.83000183,149.0420074
+,Adaminaby Airport,-35.99779892,148.7960052
+,Bakblok Airport,-34.88669968,149.0149994
+,Bombala Airport,-36.90499878,149.1820068
+,Canowindra Airport,-33.5428009,148.6629944
+,Cassilis Rotherw Airport,-32.00220108,149.9609985
+,Winderadeen ALA,-34.9389,149.410004
+,Corona Station Airport,-31.29080009,141.4519958
+,Delegate Airport,-37.06140137,148.9420013
+,Dunmore Manila Airport,-30.65810013,150.875
+,Elderslie Airport,-32.59970093,151.3399963
+,Federation Hsd Airport,-35.01169968,147.3739929
+,Heathcote Emergency Airport,-31.24029922,151.4320068
+,Kelvin Station Airport,-30.65500069,151.6380005
+,Oxley Station Airport,-31.01329994,147.7109985
+,Premer Betoota Airport,-31.4769001,149.9029999
+,Quambone Royona Airport,-30.87919998,147.8419952
+,Taralga Grathawa Airport,-34.28919983,149.7819977
+,Upper Horton Wyl Airport,-30.10470009,150.404007
+,Woodville Airport,-30.41609955,151.7550049
+,Wonnaminta Stat Airport,-30.65110016,142.3419952
+,Woodside Au Airport,-35.13330078,145.6670074
+,Allandy Airport,-30.38330078,142.6000061
+,Braidwood Airport,-35.45000076,149.8500061
+,Boolcarrol Station Airport,-30.04999924,149.4170074
+,Beechworth Airport,-31.91670036,144.6329956
+,Blackville Airport,-31.58329964,150.1829987
+,Breeza Airport,-31.31669998,150.5169983
+,Collymongle Airport,-29.45330048,148.7429962
+,Collector Airport,-34.88330078,149.4170074
+,Conargo Airport,-35.31669998,145.1170044
+,Engonnia Airport,-29.31669998,145.8329926
+,Greenthorpe Airport,-33.98329926,148.4170074
+,Milton Airport,-35.32080078,150.4389954
+,Langawirra Airport,-31.45000076,142.1329956
+,Leeton Airport,-34.499788,146.446646
+,Menindee Airport,-32.36669922,142.4049988
+,Mullaley Airport,-31.10000038,149.9170074
+,Monolon Airport,-30.20000076,143.2330017
+,Tandou Lake Airport,-32.63330078,142.0829926
+,Tambar Springs Airport,-31.31500053,149.8470001
+,Tuncurry Airport,-32.15000153,152.4830017
+,Togo Station Airport,-30.0821991,149.5319977
+,Wilandra Airport,-31.2833004,142.6670074
+,Wallacia Airport,-33.86669922,150.6499939
+,Wollomombi Airport,-30.5333004,152.0829926
+,Woolomin Airport,-31.31669998,151.1329956
+,Westward Downs Airport,-30.72500038,141.3999939
+,Yandama Airport,-29.68330002,141.4250031
+,Yalda Downs Homestead Airport,-30.26140022,142.977005
+,Mount Bundey Airport,-12.89000034,131.9080048
+NUB,Numbulwar Airport,-14.27169991,135.7169952
+OPI,Oenpelli Airport,-12.32499981,133.0059967
+YUE,Yuendumu Airport,-22.25419998,131.7819977
+,Andado Airport,-25.4116993,135.2899933
+AXL,Alexandria Homestead Airport,-19.06019974,136.7100067
+AYL,Anthony Lagoon Airport,-18.01807903,135.5350685
+,Annitowa Airport,-21.20000076,136.447998
+,Argadargada Airport,-21.67670059,136.6779938
+,Areyonga Airport,-24.06669998,132.2669983
+AVG,Auvergne Airport,-15.69999981,130
+,Avon Downs Airport,-20.0333004,137.5169983
+,Bauhinia Downs Airport,-16.13330078,135.4669952
+,Birrindudu Airport,-18.38330078,129.4830017
+,Bamyili Airport,-14.52000046,132.8829956
+,Brunchilly Airport,-18.87000084,134.4620056
+BTD,Brunette Downs Airport,-18.63999939,135.9380035
+,Bond Springs Airport,-23.51499939,133.8430023
+CTR,Cattle Creek Airport,-17.60700035,131.548996
+CFI,Camfield Airport,-17.02169991,131.3269958
+CKI,Croker Island Airport,-11.16499996,132.4830017
+CDA,Cooinda Airport,-12.90330029,132.5319977
+DVR,Daly River Airport,-13.7498064,130.6938782
+DKV,Docker River Airport,-24.86000061,129.0700073
+,Delamere Range Facility Airport,-15.74670029,131.9199982
+GBL,South Goulburn Is Airport,-11.64999962,133.3820038
+,Haasts Bluff Airport,-23.45499992,131.8529968
+,Huckitta Airport,-22.94330025,135.4470062
+,Idracowra Airport,-25.06329918,133.7330017
+,Innesvale Airport,-15.38329983,131.2669983
+,Jervois Airport,-22.91329956,136.1199951
+KCS,Kings Creek Airport,-24.42329979,131.8350067
+,Kidman Springs Airport,-16.11669922,130.9530029
+,Kildurk Airport,-16.43169975,129.6150055
+,Killarney Airport,-16.25,131.746994
+,Kintore Airport,-23.26499939,129.3869934
+,Legune Airport,-15.2166996,129.447998
+,Lilla Creek Airport,-25.56669998,134
+,Mount Riddock Airport,-23.0333004,134.6829987
+,Mereenie Airport,-23.97669983,131.5619965
+,Minjilang Airport,-11.1583004,132.5469971
+,Mount Denison Airport,-22.14170074,132.0700073
+MTD,Mount Sanford Station Airport,-16.97830009,130.5549927
+MIY,Mittebah Airport,-18.8093,137.0815
+,Mount Borradale Airport,-12.09829998,132.9069977
+,Mount Wedge Airport,-22.73719978,132.151001
+,Mallapunyah Springs Airport,-16.9666996,135.7830048
+,Nabarlek Airport,-12.30830002,133.3130035
+,New Crown Airport,-25.66670036,134.8329926
+,Nyrripi Airport,-22.64529991,130.5650024
+,Mooloola Homestead Airport,-16.33329964,131.5
+,Papunya Airport,-23.24670029,131.9029999
+,Rabbit Flat Airport,-20.18330002,130.0169983
+,Ringwood Airport,-23.82830048,134.9620056
+,Raymangirr Airport,-12.33329964,135.6499939
+,Soudan Station Airport,-20.04999924,137.0169983
+,Santa Teresa Airport,-24.11829948,134.3899994
+TBK,Timber Creek Airport,-15.61999989,130.4450073
+,Ti Tree Airport,-22.13170052,133.4199982
+,Tanami Airport,-19.91670036,129.7250061
+,Tanumbirini Airport,-16.45000076,134.6499939
+,Urapunga Airport,-14.7166996,134.5670013
+WAV,Wave Hill Airport,-17.3932991,131.1179962
+,Warrabri Airport,-21,134.3970032
+,Walhallow Airport,-17.76670074,135.6499939
+WLL,Wollogorang Airport,-17.2199,137.93453
+WLO,Waterloo Airport,-16.62999916,129.3200073
+,Tempe Downs Airport,-24.38249969,132.4230042
+,Yarralin Airport,-16.44470024,130.8809967
+,Amburla Airport,-23.33329964,133.1829987
+,Alcoota Station Airport,-22.83329964,134.4499969
+,Allambie Airport,-24.26670074,134.3999939
+,Ampilatwatja Airport,-21.65500069,135.2299957
+AMX,Ammaroo Airport,-21.73830032,135.2420044
+,Anningie Airport,-21.83169937,133.125
+,Arapunya Airport,-22.31669998,135.6999969
+,Atula Airport,-23.2833004,136.3670044
+,Benmara Airport,-17.93670082,136.8999939
+,Barrow Creek Airport,-21.5333004,133.8829956
+,Bullo River Valley Airport,-15.4666996,129.7669983
+,Cape Crawford Airport,-16.68330002,135.7330017
+,Canteen Creek Airport,-20.6508007,135.5850067
+,Coniston Airport,-22.13330078,132.5330048
+,Cape Don Airport,-11.29829979,131.8269958
+,Curtin Springs Airport,-25.31669998,131.75
+,Cape Wessels Airport,-11,136.75
+,Dhalinbuy Airport,-12.41329956,136.5370026
+,Delmore Downs Airport,-22.45859909,134.8840027
+,Delamere Station Airport,-15.61999989,131.6369934
+,Dneiper Airport,-22.61669922,135.1999969
+,Deep Well Airport,-24.29999924,134.1329956
+,Derry Downs Airport,-22.08329964,135.3329926
+EKD,Elkedra Airport,-21.17250061,135.4440002
+,Epenarra Airport,-20.43330002,135.2669983
+EDD,Erldunda Airport,-25.2057991,133.2539978
+,Gan Gan Airport,-13.06669998,135.9499969
+,The Garden Airport,-23.2866993,134.4400024
+,Goomadeer Airport,-12.10000038,133.6670074
+HUB,Humbert River Airport,-16.4896698,130.6302795
+HRY,Henbury Airport,-24.584,133.236
+,Hodgson Downs Airport,-15.22169971,134.076004
+,Hugh River Airport,-24.41670036,133.6999969
+,Howard Island Airport,-12.09500027,135.3619995
+,Horseshoe Bend Airport,-25.2166996,134.2669983
+,Harts Range Airport,-22.98500061,134.9179993
+,Baikal Airport,-22.76329994,136.1629944
+,Imanpa Airport,-25.13330078,132.5700073
+,Impadna Airport,-25.14999962,133.5829926
+,Jinka Airport,-22.95000076,135.7330017
+,Jervois Mine Airport,-22.63330078,136.2669983
+,Kiana Station Airport,-17.24169922,136.1750031
+,Mount Liebig Airport,-23.24329948,131.2599945
+,Mount Ebenezer Airport,-25.16670036,132.6329956
+MNW,Macdonald Downs Airport,-22.44400024,135.1990051
+,Mount Allan Airport,-22.27499962,132.2169952
+MSF,Mount Swan Airport,-22.624696,135.034512
+,Milton Park Airport,-23.36669922,133
+,Mount Skinner Airport,-22.18330002,134.1170044
+MUP,Mulga Park Airport,-25.86000061,131.6499939
+MKV,Mount Cavenagh Airport,-25.9666996,133.1999969
+,Mount Valley Airport,-14.08329964,133.8170013
+,Maryvale Airport,-24.65999985,134.0319977
+,Murray Downs Airport,-21.04829979,134.6829987
+,Nelson Springs Airport,-17.29999924,129.2830048
+,New Haven Airport,-22.72830009,131.1450043
+,Numery Airport,-23.98329926,135.3999939
+,Nudjaburra Airport,-17.9666996,137.9329987
+,Narwietooma Airport,-23.23329926,132.6329956
+,Old Andado Airport,-25.38330078,135.4170074
+,Ooratippra Airport,-21.90579987,136.0690002
+,Pigeon Hole Airport,-16.81,131.219
+,Palmer Airport,-12.83329964,130.9329987
+,Pine Creek Airport,-13.83329964,131.8329926
+,Palumpa Airport,-14.33329964,129.8670044
+,Redbank Mine Airport,-17.18330002,137.7669983
+,Ross River Airport,-23.5991993,134.5169983
+,Riveren Airport,-17.89999962,130.2169952
+,Saipem Airport,-23.70000076,131.8670044
+SHU,Smith Point Airport,-11.14999962,132.1499939
+,Supplejack Downs Airport,-19.26670074,129.9499969
+,Tanami Downs Airport,-20.57365417,129.7401276
+,The Granites Airport,-20.54829979,130.3470001
+,Tarlton Downs Airport,-22.63330078,136.8000031
+,Umbeara Airport,-25.74670029,133.7019958
+,Utopia Airport,-22.05500031,134.7899933
+,Utopia Station Airport,-22.23329926,134.5800018
+,Vaughan Springs Airport,-22.33329964,130.8670044
+,Vashon Head Airport,-11.14999962,131.9830017
+,Wilson's Camp Airport,-20.10140038,129.1260071
+,Willowra Airport,-21.27669907,132.6230011
+,Wallara Ranch Airport,-24.64999962,132.3170013
+,Walker River Airport,-13.59329987,135.7550049
+AYR,Ayr Airport,-19.58440018,147.3289948
+,Century Mine Airport,-18.75329971,138.7070007
+DBY,Dalby Airport,-27.15530014,151.2669983
+GAH,Gayndah Airport,-25.61440086,151.6190033
+IGH,Ingham Airport,-18.66060066,146.1519928
+ISI,Isisford Airport,-24.25830078,144.4250031
+BBL,Ballera Airport,-27.405633,141.809458
+MTQ,Mitchell Airport,-26.48329926,147.9369965
+MMM,Middlemount Airport,-22.80249977,148.7050018
+MNQ,Monto Airport,-24.88579941,151.1000061
+,Williamson Airport,-22.47330093,150.1779938
+,Arcadia Airport,-25.20000076,148.6829987
+,Alderley Airport,-22.48329926,139.6329956
+,Armraynald Airport,-17.9666996,139.7669983
+,Answer Downs Airport,-21.66670036,140.9830017
+,Ardmore Airport,-21.64999962,139.1829987
+,Arizona 1 Airport,-21.66670036,141.5670013
+AAB,Arrabury Airport,-26.693023,141.047771
+BKP,Barkly Downs Airport,-20.49583333,138.4747222
+BTX,Betoota Airport,-25.64170074,140.7830048
+,Budgerygar Airport,-25.37000084,143.772995
+,Bushy Park Airport,-21.26670074,139.7169952
+,Biggenden Airport,-25.52499962,152.0500031
+,Bellalie Airport,-27.0333004,142.9499969
+BLS,Bollon Airport,-28.05830002,147.4830017
+BFC,Bloomfield River Airport,-15.87360001,145.3300018
+,Bannockburn Airport,-21.79999924,145.0829926
+,Bodalla Airport,-26.29999924,143.3829956
+,Boatman Airport,-27.25,146.9170074
+BMP,Brampton Island Airport,-20.80330086,149.2700043
+,Brighton Downs Airport,-23.35000038,143.5330048
+,Bundarra Airport,-21.9666996,148.5330048
+,Bulleringa Airport,-17.64999962,143.8000031
+,Burdekin Falls Dam Airport,-20.60000038,147.0829926
+ZBO,Bowen Airport,-20.0182991,148.2149963
+,Daintree Airport,-16.21934128,145.4247284
+,Childers Airport,-25.25308007,152.3353958
+,Carandotta Airport,-21.9666996,138.6170044
+CQP,Cape Flattery Airport,-14.970832,145.311667
+,Clonagh Airport,-20.13330078,140.6829987
+,Conjuboy Airport,-18.68330002,144.75
+,Camel Creek Airport,-18.85000038,145.4669952
+CDQ,Croydon Airport,-18.22500038,142.2579956
+KCE,Collinsville Airport,-20.59670067,147.8600006
+,Chatsworth Airport,-21.9666996,140.3000031
+,Cooloola Village Airpark,-25.97500038,153
+,Dagworth Airport,-17.94169998,143.5879974
+DNB,Dunbar Airport,-16.04999924,142.3999939
+,Devoncourt Airport,-21.2166996,140.2330017
+,Dimbulah Airport,-17.13330078,145.0829926
+,Dulacca Airport,-26.63330078,149.7169952
+DDN,Delta Downs Airport,-16.99169922,141.3170013
+,Doongmabulla Airport,-22.06669998,146.2330017
+,Dynevor Downs Airport,-28.10000038,144.3500061
+,Donors Hill Airport,-18.7166996,140.5500031
+,Donnington Airpark,-19.61170006,146.8399963
+DHD,Durham Downs Airport,-27.07500076,141.8999939
+DRR,Durrie Airport,-25.68499947,140.2279968
+,Elderslie Airport,-15.7,145.1
+,Eromanga Airport,-26.70000076,143.2669983
+,Epsilon Airport,-28.2833004,141.1999969
+,Escott Airport,-17.72500038,139.4170074
+,Eulo Airport,-28.16670036,145.0420074
+,Forsayth Airport,-18.58480072,143.5690002
+GBP,Gamboola Airport,-16.54999924,143.6670074
+,Galdeville Airport,-20.25,142.4499969
+,Glen Garland Airport,-14.86670017,143.2830048
+,Gregory Springs Airport,-19.7166996,144.3829956
+,Glen Harding Airport - CLOSED,-18.248608,145.125958
+GLG,Glengyle Airport,-24.80830002,139.6000061
+GLM,Glenormiston Airport,-22.88829994,138.8249969
+,Granada Airport,-20.10000038,140.3670044
+,Gunpowder Airport,-19.70000076,139.3670044
+,Glen Ruth Airport,-18.08329964,145.3999939
+,Gunnawarra Airport,-17.95000076,145.1670074
+,Galway Downs Airport,-25.18330002,142.6670074
+HIG,Highbury Airport,-16.42440033,143.1459961
+,Hillgrove Airport,-19.64249992,145.7969971
+,Hollins Bay Airport,-22.26670074,150.0330048
+,Hungerford Airport,-28.98329926,144.4499969
+,Herberton Airport,-17.43330002,145.3999939
+,Harvest Home Airport,-20.68330002,146.6499939
+IKP,Inkerman Airport,-16.27499962,141.4420013
+,Inverleigh Airport,-18.01670074,140.5670013
+,Isis Downs Airport,-24.2166996,144.6170044
+,Jackson Airport,-27.63829994,142.4080048
+,Jacobs Well Airport,-27.76169968,153.3350067
+,Jonroy Airport,-16.5,144.3999939
+,Jericho Airport,-23.58329964,146.1670074
+,Jowalbinna Airport,-15.73330021,144.2669983
+,Kajabbi Airport,-20.0333004,140.0330048
+,Kooralbyn Airport,-28.09000015,152.8450012
+,Kingfisher Camp Airport,-17.86879921,138.2949982
+,Kidston Airport,-18.87000084,144.1730042
+,Kaiuroo Airport,-23.088925,149.431925
+KOH,Koolatah Airport,-15.88860035,142.4389954
+,Kalinga Airport,-15.19999981,143.8500061
+,Kallala Airport,-21.75,138.8829956
+,Killarney Airport,-15.39999962,143.5
+KML,Kamileroi Airport,-19.375,140.0570068
+,Kendall River Airport,-13.75,142.1829987
+,Kurray Airport,-28.21999931,148.5780029
+,Kynuna Airport,-21.60000038,141.9170074
+,Laglan Airport,-22.5,146.6670074
+,Lucky Downs Airport,-18.91670036,145
+,Langlo Downs Airport,-25.5333004,145.7669983
+,Lily Vale Airport,-14.48330021,143.6670074
+LOA,Lorraine Airport,-18.99329948,139.9069977
+LUU,Laura Airport,-15.55000019,144.4499969
+LUT,New Laura Airport,-15.18330002,144.3670044
+,Lansdowne Airport,-25.04999924,146.2669983
+,Laverak (Military) Airport,-19.32169914,146.802002
+,Mckinley Airport,-21.2833004,141.2879944
+,Mount Coolon Airport,-21.39170074,147.3249969
+,Macrossan Airport,-20.01670074,146.4830017
+,Mount Howitt Airport,-26.51169968,142.2830048
+,Minnamoolka Airport,-18.18330002,145.1670074
+,Millmerran Airport,-27.86330032,151.2749939
+,Mount Margaret Airport,-26.93330002,143.3170013
+ONR,Monkira Airport,-24.81669998,140.5330048
+OXY,Morney Airport,-25.35829926,141.4329987
+OOR,Mooraberree Airport,-25.25,140.9830017
+,Mount Cooper Airport,-20.51670074,146.7669983
+,Mount Garnet Airport,-17.70000076,145.1499939
+,Mount Surprise Airport,-18.12630081,144.2850037
+UTB,Muttaburra Airport,-22.58329964,144.5330048
+,Monduran Airport,-24.875,151.9170074
+,Morven Airport,-26.39999962,147.1000061
+,Mary Valley Airport,-15.05000019,143.75
+,Nanango Airport,-26.69000053,151.9830017
+NMR,Nappa Merrie Airport,-27.55830002,141.1329956
+,Noccundra Airport,-27.79999924,142.5829926
+,Natal Downs Airport,-21.08329964,146.1499939
+,Norfolk Airport,-19.33329964,138.3329926
+,Nooyeah Downs Airport,-28.04999924,143.5829926
+,Oaky Creek Airport,-23.05999947,148.4949951
+,Ourdel Airport,-25.35000038,142.6329956
+,Orielton Airport,-22.06669998,144.1499939
+,Oakvale Airport,-22.26670074,145.9830017
+,Omicron Station Airport,-28.76670074,141.1999969
+,Ootann Airport,-17.43330002,144.6329956
+,Pinnacle Airport,-15.66670036,143.5500031
+,Plevna Downs Airport,-26.66670036,142.5829926
+,Rocklands Airport,-19.86669922,138.1000061
+,Rolleston Airport,-24.46170044,148.6320038
+RSB,Roseberth Airport,-25.83329964,139.6499939
+,Rosevale Resort Airport,-27.13330078,145.8999939
+RTP,Rutland Plains Airport,-15.64330006,141.8430023
+,Sudley Airport,-12.75,142.3670044
+ZGL,South Galway Airport,-25.68330002,142.1080017
+STH,Strathmore Airport,-17.85000038,142.5670013
+,Springfield Airport,-24.29999924,144.8829956
+,Springsure Airport,-24.12829971,148.0749969
+SCG,Spring Creek Airport,-18.63330078,144.5670013
+KSV,Springvale Airport,-23.54999924,140.6999969
+,Surat Airport,-27.14999962,149.0829926
+,Strathburn Airport,-14.48169994,142.8170013
+,Stonehenge Airport,-24.35829926,143.3000031
+,Strathaven Airport,-14.89999962,142.9669952
+XTR,Tara Airport,-27.15670013,150.477005
+XTO,Taroom Airport,-25.80170059,149.8999939
+TYG,Thylungra Airport,-26.08329964,143.4669952
+,Trinidad Airport,-25.60000038,143.9170074
+,Toorak Research Station Airport,-21.04170036,141.7870026
+,Toliness Airport,-25.32145119,146.0688171
+,Toomba Airport,-19.93330002,145.5829926
+,Tarcombe Airport,-24.08329964,143.3999939
+,Ti Tree Airport,-13.98499966,141.6569977
+,Trugananni Airport,-24.4666996,149.2669983
+,Trelawney Airport,-22.85000038,146.7169952
+,Undilla Airport,-19.625,138.6329956
+CZY,Cluny Airport,-24.51670074,139.6170044
+,Valley of Lagoons Airport,-18.66670036,145.1000061
+VNR,Vanrook Station Airport,-16.9633007,141.9499969
+,Wattle Hills Airport,-12.63329983,143.0500031
+,Wyandotte Airport,-18.75,144.8329926
+,Wellclose Airport,-25.85000038,145.1000061
+,Wernadinga Airport,-18.13330078,139.9669952
+,Westmoreland Airport,-17.33329964,138.2330017
+WPK,Wrotham Park Airport,-16.6583004,144.0019989
+,Wathanin Airport,-13.69999981,141.5500031
+,Wandsworth Airport,-25.04999924,143.6670074
+,Watson River Airport,-13.2166996,142.2330017
+,Wentworth Airport,-22.10000038,147.6999969
+,Wyandra Airport,-27.26670074,145.9900055
+,Yacamunda Airport,-21.38330078,147.1000061
+,Yarrabee Mine Airport,-23.26670074,149.0169983
+,Yowah Airport,-27.93330002,144.6170044
+,Crystal Brook Airport,-17.45000076,144.4499969
+,Yandan Mine Airport,-21.27333333,146.99
+,Albilbah Airport,-24.70000076,144.2830048
+,Augathella Airport,-25.75499916,146.5870056
+,Battery Downs Airport,-19.43330002,145.8500061
+BVW,Batavia Downs Airport,-12.65919971,142.6750031
+,Bayswater Airport,-25.45000076,145.5829926
+,Cannington Station Airport,-21.875,140.8999939
+,Caldervale Station Airport,-25.10829926,146.8329926
+,Clifton Airport,-27.928301,151.847
+,Consuelo Airport,-24.63330078,148.4669952
+,Calton Hills Airport,-20.13330078,139.4170074
+,Cuddapan Airport,-25.59000015,141.5079956
+,Corowa Downs Airport,-26.4666996,143.3500061
+,Crystal Brook Airport,-17.38330078,144.4499969
+,Emu Park Airport,-23.25670052,150.8130035
+,Hideaway Bay Airport,-20.11669922,148.4329987
+HAT,Heathlands Airport,-11.73690033,142.5769959
+,Kencherang Airport,-13.84500027,141.5919952
+,Lyndley Airport,-26.83329964,151.2330017
+,Maitland Downs Airport,-16.22330093,144.7030029
+,Merapah Airport,-13.7166996,142.4170074
+,Millungera Airport,-19.85829926,141.5619965
+,Maneroo Airport,-23.36669922,143.8829956
+,Nockatunga Airport,-27.7166996,142.7120056
+,Naryilco Airport,-28.54999924,141.9170074
+,Navarra Airport,-24.85000038,143.6999969
+,Pacific Haven Airport,-25.23670006,152.5429993
+,Pittsworth Airport,-27.7208004,151.6329956
+,Raymore Homestead Airport,-26.14999962,143.0169983
+,Stanbroke Airport,-21.56669998,139.7169952
+,Strathgordon Airport,-14.79500008,142.4329987
+,Strathleven Airport,-15.89830017,143.3829956
+,Strathmay Airport,-14.88329983,142.802002
+,Southwell Airport,-14.51669979,142.0330048
+,Silver Hills Airport,-20.61669922,143.0829926
+TAN,Tangalooma Airport,-27.12999916,153.3630066
+,Torres Park Homestead Airport,-25.11669922,147.1670074
+,Tully Airport,-17.93330002,145.9170074
+,Talavera Airport,-19.2166996,143.6670074
+,Violet Vale Airport,-14.73330021,143.5829926
+WSY,Whitsunday Island Airport,-20.27611,148.755
+,Wirralie Gold Mine Airport,-21.11669922,147.2669983
+,Wooroona Airport,-20.4817009,138.1679993
+,Wirralie Airport,-22.27000046,146.0500031
+,Tangalooma Resort Airport,-27.20000076,153.3829956
+,Cummins Airport,-34.20830154,135.6419983
+MLR,Millicent Airport,-37.58359909,140.3659973
+MRP,Marla Airport,-27.33329964,133.6269989
+ADO,Andamooka Airport,-30.438299,137.136993
+AMT,Amata Airport,-26.10829926,131.2070007
+,Anna Creek Airport,-28.89669991,136.1699982
+,Ardrossan Airport,-34.44718889,137.8882917
+,Beverley Airport,-30.18670082,139.5579987
+LCN,Balcanoona Airport,-30.53499985,139.3370056
+,Bollards Lagoon Airport,-28.98329926,140.8500061
+,Booleroo Centre Airport,-32.90499878,138.3600006
+,Cape Borda Airport,-35.75669861,136.5980072
+,Callendale Airport,-37.24330139,140.4450073
+,Cooranga Airport,-36.81999969,140.272995
+,Coonawarra Airport,-37.28329849,140.8000031
+,Coffin Bay Airport,-34.63330078,135.5169983
+,Carrieton Airport,-32.41669846,138.5169983
+,Calvin Grove Airport,-34.69670105,138.5780029
+ERB,Ernabella Airport,-26.26329994,132.1820068
+,Erudina Airport,-31.43449974,139.4250031
+,Everard Park Airport,-27.01670074,132.7169952
+,Farrell Flat Airport,-33.83330154,138.7669983
+,Frome Downs Airport,-31.2166996,139.75
+,Fregon Airport,-26.77499962,132.0169983
+GTS,Granite Downs Airport,-26.94829941,133.6069946
+IDK,Indulkana Airport,-26.9666996,133.3249969
+,Kenmore Park Airport,-26.33329964,132.4669952
+,Lameroo Airport,-35.36669922,140.5500031
+,Mooleulooloo Airport,-31.63330078,140.5330048
+,Lyndoch Airport,-34.62170029,138.9140015
+,Mount Davies Airport,-26.16670036,129.1329956
+,Mintabie Airport,-27.32830048,133.3049927
+XML,Minlaton Airport,-34.75,137.5330048
+,Murnpeowie Airport,-29.5916996,139.052002
+MIN,Minnipa Airport,-32.84329987,135.1450043
+,Mount Hope Airport,-34.13669968,135.3379974
+RTY,Merty Merty Airport,-28.58329964,140.3170013
+,Nypari Airport,-26.20000076,130.2330017
+ODD,Oodnadatta Airport,-27.56170082,135.4470062
+,Orroroo Airport,-32.77330017,138.6649933
+PDE,Pandie Pandie Airport,-26.11669922,139.3999939
+,Plumbago Airport,-32.05329895,139.871994
+,Pinnaroo Airport,-35.25329971,140.9429932
+,Quorn Airport,-32.31999969,138.102005
+,Yardea Airport,-32.40999985,135.4850006
+,Roxby Downs Station Airport,-30.7166996,136.7369995
+,Stonefield Gliding,-34.341667,139.30833
+,Snowtown Airport,-33.79999924,138.3670044
+,Strathearn Airport,-31.76670074,140.3329926
+,Tumby Bay Airport,-34.36169815,136.0950012
+,Tieyon Airport,-26.2166996,133.9170074
+,Wertaloona Airport,-30.64999962,139.3500061
+,Wirrealpa Airport,-31.13330078,138.9669952
+,Yunta Airport,-32.58330154,139.5500031
+,Dalhousie Airport,-26.42900085,135.5059967
+,Blinman Airport,-31.11860085,138.7259979
+CWR,Cowarie Airport,-27.71170044,138.3280029
+,Quarry2 Airport,-30.29220009,134.5269928
+AWN,Alton Downs Airport,-26.5333004,139.2669983
+,Arckaringa Airport,-27.94669914,134.7449951
+,Angatja Airport,-26.10000038,130.3999939
+,Bon Bon Airport,-30.40670013,135.4799957
+,Birthday Siding Airport,-30.2833004,134.5169983
+,Barmera Airport,-34.25669861,140.4579926
+,Barton Siding Airport,-30.52499962,132.6600037
+,Bulgunnia Airport,-30.18670082,134.9029999
+,Coondambo Airport,-31.06669998,135.8829956
+,Childra Airport,-31.70000076,134.8329926
+,Curdimurka Airport,-29.47669983,137.0879974
+,Cummins Town Airport,-34.25830078,135.7079926
+,Copper Hills Airport,-27.97830009,134.3170013
+,Copper Triangle Airport,-33.9817009,137.6620026
+,Commonwealth Hill Airport,-29.96170044,134.1430054
+,Dullingari Airport,-28.13330078,140.8820038
+,Dalhousie Airport,-26.43499947,135.5169983
+,De Rose Hill Airport,-26.43330002,133.2579956
+,Emu Junction Airport,-28.63330078,132.1829987
+,Evelyn Downs Airport,-28.20470047,134.4880066
+,Flinders Island Airport,-33.730989,134.501
+,Mount Fitton Talc Airport,-29.90920067,139.473999
+,Glendambo Airport,-30.9666996,135.7749939
+,Hughes Siding Airport,-30.7166996,129.5149994
+,Hamilton Airport,-26.71999931,135.072998
+,Hiltaba Airport,-32.14250183,135.098999
+,Ingomar Airport,-29.63330078,134.7929993
+,Kondoolka Airport,-32.02389908,134.8609924
+,Kingoonya Airport,-30.90169907,135.3049927
+,Kokatha Airport,-31.29170036,135.2420044
+,Kalamurina Airport,-27.7166996,138.2619934
+,Kolendo Airport,-32.41579819,136.2980042
+,Keith Airport,-36.10829926,140.2420044
+,Kangaroo Well Airport,-31.78499985,135.6380005
+,Lambina Airport,-26.91329956,134.0579987
+,Mobella Airport,-29.79829979,133.3450012
+,Mount Lindsay Airport,-27.0182991,129.8849945
+,Lucindale Airport,-36.97169876,140.352005
+,Lake Everard Airport,-31.73329926,135.0269928
+,Macumba Airport,-27.26169968,135.6380005
+,Manguri Airport,-28.97999954,134.371994
+,Mabel Creek Station Airport,-28.94169998,134.3329926
+,Mount Eba Airport,-30.17609978,135.6710052
+,Mulgathing Airport,-30.22920036,133.9859924
+,Mount Ive Airport,-32.44419861,136.0690002
+,Muloorina Airport,-29.24670029,137.9100037
+,Mount Barry Airport,-28.23329926,135
+,Moonaree Airport,-31.96610069,135.875
+,Maralinga Airport,-30.16329956,131.625
+,Mount Clarence Airport,-28.83329964,134.3580017
+,Martins Well Airport,-31.47360039,139.1109924
+,Mahanewo Airport,-31.71829987,136.4329987
+,Nundroo Airport,-31.78000069,132.2230072
+,Nonning Airport,-32.52190018,136.4940033
+,Nilpinna Airport,-28.48329926,135.8999939
+,Nepabunna Airport,-30.60330009,138.947998
+,North Well Airport,-30.84609985,135.3090057
+,Ooldea Airport,-30.45669937,131.822998
+,Oak Valley Airport,-29.51670074,130.8670044
+,Padthaway Station Airport,-36.61669922,140.4830017
+,Peake Airport,-28.25,135.8999939
+,Parakylia Airport,-30.39999962,136.3919983
+,Peterborough Airport,-33.00500107,138.8580017
+,Quondong Airport,-33.16329956,140.4519958
+,Rocky River Airport,-35.93000031,136.7200012
+,Mount Sarah Airport,-27.04310036,135.2420044
+,Tarcoonyinna Airport,-26.75,133.3500061
+,Todmorden Airport,-27.12420082,134.7700043
+,Tenneco Station Three Airport,-30.33670044,139.6649933
+,Tenneco Station Five Airport,-31.97500038,139.2070007
+,Tenneco Station One Airport,-28.73329926,140.0500031
+,Tenneco Station Four Airport,-31.18330002,139.3829956
+,Toolachie Airport,-28.4083004,140.8099976
+,Tenneco Station Two Airport,-29.54999924,139.9499969
+,Umuwa Airport,-26.48670006,132.0399933
+,Mount Vivian Airport,-30.58329964,135.7169952
+,Mount Willoughby Airport,-27.98329926,134.1499939
+,Welbourn Hill Airport,-27.35810089,134.0930023
+,Wooltana Airport,-30.42169952,139.4360046
+,Wilgena Airport,-30.76670074,134.7299957
+,Wirrida Siding Airport,-29.56669998,134.5169983
+,Wynbring Airport,-30.56170082,133.5330048
+,Yalymboo Airport,-31.80330086,136.8600006
+,Bridport Airport,-41.01670074,147.4170074
+,Bothwell Airport,-42.36669922,147.0330048
+,Balfour Airport,-41.25903326,144.8860645
+,Bruny Island Airport,-43.23419952,147.3800049
+CBI,Cape Barren Island Airport,-40.39170074,148.0169983
+,Clarke Island Airport,-40.51670074,148.1329956
+,Friendly Beaches Airport,-42,148.2590027
+GEE,Georgetown (Tas) Airport,-41.08000183,146.8399963
+,Jericho Airport,-42.36669922,147.3170013
+,Killiecrankie Airport,-39.84880066,147.8580017
+,Lady Barron (Flinders Is) Airport,-40.20000076,148.25
+,Long Hill Airport,-41.33330154,146.5
+UEE,Queenstown Airport,-42.075001,145.531998
+,Sandfly Airport,-42.99169922,147.2079926
+,Triabunna Airport,-42.51369858,147.897995
+,Tunbridge Airport,-42.09999847,147.3670044
+,Zeehan Airport,-41.88330078,145.3500061
+,Burnie Airport,-41.04919815,145.8800049
+,Campbell Town Airport,-41.96722412,147.5305481
+,Glendevie Airport,-43.22999954,147.0119934
+,Hunter Island Airport,-40.51670074,144.7330017
+,Lagoon Bay Airport,-42.88499832,147.9530029
+,Longdown Airport,-41.69530106,147.1430054
+,Lake Pedder Airport,-43.04999924,146.3329926
+,Swansea Airport,-42.10169983,148.0679932
+,Valley Field Airport,-41.81000137,147.2920074
+,Woodbury Airfield,-42.16777802,147.4458313
+,Boobyalla Airfield,-40.89916611,147.8647156
+,Birchip Airport,-35.99969864,142.9170074
+,Donald Airport,-36.36029816,143.0079956
+,Nhill Airport,-36.30970001,141.6410065
+,Saint Arnaud Airport,-36.63669968,143.1860046
+,Amphitheatre Airport,-37.18330002,143.3999939
+,Avonmore Airport,-36.56669998,144.5500031
+,Boort Airport,-36.13669968,143.727005
+,Beechworth Airport,-36.39333333,146.6963889
+,Beulah 1 Airport,-35.95000076,142.4170074
+,Bamawm Airport,-36.25,144.6329956
+,Benambra Airport,-36.96686656,147.6991439
+,Branxholme Airport,-37.86729813,141.7019958
+,Dadswells Bridge Airport,-36.96829987,142.5480042
+,Cann River Airport,-37.51670074,149.1670074
+,Cohuna Airport,-35.81669998,144.1999969
+,Coleraine Airport,-37.59999847,141.6999969
+,Casterton Airport,-37.59999847,141.3999939
+,Cape Otway Airport,-38.86000061,143.5149994
+,Cowes Airport,-38.50830078,145.2129974
+,Dunolly Airport,-36.84999847,143.6999969
+,Edenhope Airport,-37.01670074,141.2669983
+,Meredith Airport,-37.88330078,144.0829926
+,Eildon Weir Airport,-37.20830154,145.8329926
+,Grampians Airport,-37.04999924,142.2830048
+,Gabo Is aAd sSte Airport,-37.56999969,149.9179993
+,Kaniva Airport,-36.38330078,141.25
+,Kotta Airport,-36.17979813,144.5249939
+,Lakes Entrance Airport,-37.85269928,147.9579926
+,Lake Leagur Airport,-35.98329926,143.8000031
+,Lismore Airport,-37.93330002,143.3500061
+,Mount Elephant Airport,-37.90000153,143.1670074
+,Mount William Airport,-37.29549582,142.6033974
+,Nagambie Airport,-36.73830032,145.125
+,Navarre Airport,-36.91669846,143.1000061
+,Normanville Airport,-35.78329849,143.6999969
+,Patchewollock Airport,-35.36669922,142.1499939
+,Puckapunyal (Military) Airport,-37,145.0630035
+,Pyramid Hill Airport,-36.06669998,144.1329956
+,Quambatook Airport,-35.86220169,143.5099945
+,Raglan Airport,-37.37738734,143.3056641
+,Rainbow Airport,-35.91669846,141.9830017
+,Kuruc-A-Ruc South Airport,-37.90000153,143.7169952
+RBC,Robinvale Airport,-34.65000153,142.7830048
+,Strathbogie Airport,-36.85499954,145.7380066
+,Strathdownie Airport,-37.7317009,141.125
+,Sea Lake Airport,-35.52669907,142.8880005
+,Taggerty Airport,-37.3504982,145.6999969
+,Torrumbarry Airport,-36.06669998,144.5330048
+,Victoria Valley Airport,-37.5,142.2700043
+,Wedderburn Airport,-36.43330002,143.4830017
+,Wonthaggi Airport,-38.47169876,145.6230011
+,Wycheproof Airport,-36.05830002,143.2429962
+,Yarram Airport,-38.56669998,146.7550049
+,Natya Airport,-34.96829987,143.2330017
+,Great Lakes Vi Airport,-37.84220123,148
+,Beaufort Airport,-37.45000076,143.25
+,Derrinallum Airport,-37.93416667,143.2277778
+,Yea Airport,-37.21580124,146.4299927
+,Gunbower Airport,-35.96670151,144.3829956
+,Grovedale Airport,-38.21670151,144.3329926
+,Koongarra Airport,-36,142.2169952
+,Kurweeton Airport,-38.04999924,143.1499939
+,Longwarry Airport,-38.10829926,145.7779999
+,Manangatang Airport,-35.04999924,142.8670044
+,Newhaven Airport,-38.53329849,145.3170013
+,Omeo Airport,-37.09669876,147.5930023
+,Peterborough Airport,-38.59999847,142.9170074
+,Prairie Airport,-36.30720139,144.1390076
+,Sale Airport,-38.11669922,147.0749969
+,Tidal River Airport,-39.03419876,146.3269958
+,Woodvale Airport,-36.63330078,144.1829987
+,Port Fairy,-38.36196518,142.2642212
+BYP,Barimunya Airport,-22.6739006,119.1660004
+,Bronzewing Airport,-27.36560059,121.0360031
+BWB,Barrow Island Airport,-20.86440086,115.4059982
+,RAAF Gingin,-31.46529961,115.862999
+WYN,Wyndham Airport,-15.51140022,128.1529999
+,Albion Downs Airport,-27.2833004,120.3830032
+,Arubiddy Airport,-31.79999924,125.9329987
+,Ashburton Downs Airport,-23.38330078,117.0329971
+,Anna Plains Airport,-19.26670074,121.5169983
+,Balladonia Airport,-32.34999847,123.6179962
+,Billabalong Airport,-27.41670036,115.8330002
+,Bencubbin Airport,-30.83329964,117.8669968
+,Balgair Airport,-31.06669998,125.6669998
+,Banjawarn Airport,-27.66670036,121.5999985
+,Bellevue Airport,-27.61499977,120.6119995
+,Boyup Brook Airport,-33.90000153,116.4670029
+,Bruce Rock Airport,-31.88330078,118.1169968
+,Blackstone Airport,-25.98670006,128.2879944
+,Bulloo Downs Station Airport,-24.01670074,119.5670013
+,Browse Is Airport,-14.11170006,123.5469971
+BVZ,Beverley Springs Airport,-16.73329926,125.4329987
+,Carnegie Station Airport,-25.79999924,122.9670029
+,Corrigin Airport,-32.33330154,117.8170013
+,Cocklebiddy Airport,-32.04999924,126.0920029
+NIF,Camp Nifty Airport,-21.67169952,121.586998
+,Coonana Airport,-31.01670074,123.1669998
+CUY,Cue Airport,-27.44669914,117.9179993
+,Cervantes Airport,-30.48329926,115.0830002
+,Dalgaranga Airport,-27.79144036,116.9933224
+,Darlot Airport,-27.88330078,121.2669983
+,Dowerin Airport,-31.18330002,117.0500031
+,Depot Springs Airport,-27.88330078,120.0830002
+,Depot Outcamp Airport,-31.57220078,125.1869965
+DRY,Drysdale River Airport,-15.7135704,126.3810968
+,Dumbleyung Airport,-33.33330154,117.75
+EUC,Eucla Airport,-31.70000076,128.8829956
+,Belele Airport,-26.36669922,118.0169983
+,El Questro Airport,-16.00830078,127.9749985
+,Garden Island (Military) Airport,-32.24169922,115.6829987
+GBV,Gibb River Airport,-16.42329979,126.4449997
+,Gnowangerup Airport,-33.98329926,118.0329971
+,Horseshoe Lights Airport,-25.35000038,118.6169968
+,Hyden Airport,-32.43330002,118.8669968
+,Jameson Airport,-25.85000038,127.6829987
+,Jeedamya Airport,-29.39999962,121.2669983
+,Jerramungup Airport,-33.90000153,118.9000015
+,Jundee Airport,-26.42169952,120.5770035
+,Kondinin Airport,-32.46670151,118.2829971
+,Kellerberrin Airport,-31.66670036,117.7330017
+,Kununoppin Airport,-31.13330078,117.9000015
+,Kookynie Airport,-29.35000038,121.4830017
+,Lombadina Airport,-16.51670074,122.9169998
+,Loongana Airport,-30.95000076,127.0329971
+,Lyndon Airport,-23.63330078,115.2330017
+,Madura Airport,-31.88330078,127.0329971
+,Mount Mcclure Airport,-27.46999931,120.9169998
+,Merredin Airport,-31.50499916,118.322998
+,Mingenew Airport,-29.26670074,115.4499969
+,Murgoo Airport,-27.36669922,116.4169998
+MGV,Margaret River (Station) Airport,-18.62170029,126.8830032
+,Mount Holland Airport,-32.11830139,119.7679977
+MHO,Mount House Airport,-17.05500031,125.7099991
+,Mukinbudin Airport,-30.93330002,118.25
+,Minura Airport,-28.88330078,121.8000031
+MWB,Morawa Airport,-29.20170021,116.0220032
+,Mount Elizabeth Airport,-16.43330002,126.0999985
+,Mileura Airport,-26.36669922,117.3330002
+,Mount Vernon Station Airport,-24.23329926,118.2330017
+MXU,Mullewa Airport,-28.47500038,115.5169983
+,Menzies Airport,-29.66670036,121.0169983
+,Newdegate Airport,-33.11669922,119
+,Northampton Airport,-28.35000038,114.6829987
+NLS,Nicholson Airport,-18.04999924,128.8999939
+,Nantarra Airport,-22.5333004,115.5
+NSM,Norseman Airport,-32.20999908,121.7549973
+NLL,Nullagine Airport,-21.91329956,120.197998
+,Nyang Airport,-23.0333004,115.0329971
+ONS,Onslow Airport,-21.66830063,115.112999
+,Pingelly Airport,-32.54000092,117.072998
+,Perenjori Airport,-29.43330002,116.2829971
+,Prenti Downs Airport,-26.51670074,122.8000031
+,Pannawonica Airport,-21.61669922,116.3170013
+,Porphyry Airport,-29.77829933,122.2679977
+,Paynes Find Airport,-29.25,117.6669998
+,Ravensthorpe Airport,-33.52830124,119.9530029
+,Rawlinna Airport,-31,125.3170013
+,Redmont Airport,-21.9666996,119.0169983
+,Rawlinna Station Airport,-31.02519989,125.1910019
+SQC,Southern Cross Airport,-31.23999977,119.3600006
+,Sandfire Airport,-19.76670074,121.1669998
+,Silent Grove Airport,-17.06669998,125.25
+,Tracies Field,-22.31669998,122.0670013
+,Tjirrkarli Airport,-26.03499985,125.4720001
+,Troughton Is Airport,-13.7517004,126.1480026
+USL,Useless Loop Airport,-26.16670036,113.4000015
+,Wingellina Airport,-26.06669998,128.9499969
+,Wonganoo Airport,-27.125,121.3330002
+,Wongan Hills Airport,-30.86669922,116.7330017
+WRW,Warrawagine Airport,-20.84420013,120.7020035
+,Yagga Yagga Airport,-20.9666996,128.0829926
+KYF,Yeelirrie Airport,-27.27706004,120.0956726
+,Zanthus Airport,-31.0333004,123.5670013
+,Lake King Airport,-33.07920074,119.7659988
+,Tjukayirla Roadhouse Airstrip,-27.155199,124.584999
+,Between Lakes Private Airstrip,-32.84999847,115.6399994
+,Atley Airport,-28.2166996,119.25
+,Mount Barnet Airport,-16.73719978,125.9089966
+BDW,Bedford Downs Airport,-17.2866993,127.4629974
+,Barradale Airport,-22.86330032,114.9629974
+,Beacon Airport,-30.48329926,117.8830032
+BIW,Billiluna Airport,-19.56669998,127.6669998
+,Brooklands Airport,-31.82500076,116.7959976
+,Booylgoo Springs Airport,-27.75,119.9000015
+,Butch Airport,-33.83330154,115.0999985
+,Bulga Downs Station Airport,-28.5,119.7330017
+,Bryah Airport,-25.5333004,118.7330017
+,Bonney Downs Station Airport,-22.26670074,119.8830032
+,Callion Airport,-30.11669922,120.5830002
+,Coolgardie Airport,-30.95000076,121.1500015
+,Carnarmah Airport,-29.68330002,115.8830032
+,Coongan Airport,-20.68330002,119.6669998
+,Cosmo Newberry Airport,-27.98500061,122.9029999
+,Coppins Gap Airport,-20.95000076,120.0329971
+,Cranbrook Airport,-34.28329849,117.5500031
+,Cotten Creek Airport,-22.79999924,122.5830002
+,Cockatoo Island Airport,-16.08329964,123.6169968
+DNG,Doongan Airport,-15.386429,126.302235
+,Dalgety Downs Station Airport,-25.2833004,116.1999969
+,De Grey Homestead Airport,-20.17499924,119.1689987
+,Mount Dimer Airport,-30.40169907,119.8300018
+,Diemal Find Airport,-29.66670036,119.2829971
+,Dairy Creek Homestead Airport,-25.2833004,115.8669968
+,Duketon Airport,-27.95829964,122.3079987
+,Dale River Airport,-32.28329849,116.5500031
+,Edmund Station Airport,-23.75,116.0999985
+,Errabiddy Homestead Airport,-25.5,117.1669998
+,Earaheedy Airport,-25.60000038,121.5830002
+,Erong Station Airport,-25.56669998,116.6669998
+,Eudamulla Station Airport,-24.45000076,115.5999985
+,Fortescue River Airport,-21.29999924,116.1330032
+FVL,Flora Valley Airport,-18.2833004,128.4170074
+,Fortnum Airport,-25.33329964,118.3669968
+,Faraway Bay Airport,-13.98079967,127.1809998
+,Gnaraloo Station Airport,-23.79154968,113.5289383
+,Gidgee Airport,-27.27000046,119.4049988
+,Gifford Creek Station Airport,-24.04999924,116.2170029
+,Giralia Airport,-22.68330002,114.3669968
+,Glenayle Homestead Airport,-25.2833004,122.0500031
+,Goomalling Airport,-31.36669922,116.8830032
+,Giles Point Airport,-23.26670074,119.1669998
+,Gullewa Airport,-28.63330078,116.2829971
+,Haig Airport,-31,126.0830002
+,Hopetoun Airport,-33.90000153,120.1579971
+,Jiggalong Mission Airport,-23.36669922,120.7829971
+,Tjukurla Airport,-24.37071037,128.7393341
+,Kalannie Airport,-30.36669922,117.1330032
+,Kanandah Airport,-30.89500046,124.8619995
+,Koolyanobbing Range Airport,-30.84059906,119.5289993
+,Koonmarra Airport,-26.2833004,117.7829971
+,Landor Station Airport,-25.10000038,116.9000015
+,Mulga Downs Airport,-22.10720062,118.4710007
+,La Grange Bay Airport,-18.68330002,121.8079987
+,Landor Races Airport,-24.95000076,116.9670029
+,Lochinvar Airport,-20.75830078,121.0169983
+,Louisa Downs Airport,-18.7166996,126.7170029
+,Lorna Glen Homestead Airport,-26.2166996,121.5500031
+,Lake Varley Airport,-32.70830154,119.5130005
+,Lake Way Airport,-26.94499969,120.4700012
+,Mount Clere Homestead Airport,-25.10000038,117.5830002
+,Mundabullangana Airport,-20.51670074,118.0670013
+,Minderoo Station Airport,-22,115.0500031
+,Mundrabilla Motel Airport,-31.82670021,128.2299957
+,Mardi Station Airport,-21.20000076,115.9830017
+,Mount Morgans Airport,-28.78720093,122.0339966
+,Mount Hart Station Airport,-16.81999969,124.9079971
+,Milgun Airport,-25.08329964,118.3330002
+,Millrose Homestead Airport,-26.39999962,120.9499969
+,Middalya Homestead Airport,-23.89999962,114.7669983
+,Mount James Airport,-24.61669922,116.9329987
+,Malina Airport,-20.88330078,118.0329971
+,Milurie Homestead Airport,-27.58329964,121.7829971
+,Mount Weld Airport,-28.77169991,122.4400024
+,Melrose Airport,-27.93330002,121.3000031
+,Murchison Shire Airport,-26.91670036,115.9830017
+,Munjina Airport,-22.36610031,118.6809998
+,Marvel Loch Airport,-31.4666996,119.5329971
+,Marymia Airport,-25.09329987,119.7549973
+,Nannup Airport,-34.03329849,115.7330017
+,Noondoonia Homestead Airport,-32.28329849,123.6669998
+,One Arm Point Airport,-16.43330002,123.0500031
+,Moonerah Airport,-31.68939972,126.5859985
+,Orleans Farm Airport,-33.78329849,122.9499969
+,Orient Well Airport,-29.19919968,121.4380035
+,Youanmi Airport,-28.61499977,118.8420029
+,Pinnacles Homestead Airport,-28.20000076,120.4329987
+,Pia Airport,-27.19169998,116.2919998
+,Peak Hill Airport,-25.60000038,118.6829987
+,Plutonic Airport,-25.33329964,119.4250031
+,Punmu Airport,-22.06669998,123.1669998
+,Reedys Airport,-27.13170052,118.2799988
+,Red Hill Station Airport,-21.9666996,116.0670013
+,Rocklea Airport,-22.88330078,117.4499969
+,Rothsay Mine Airport,-29.29170036,116.8669968
+,Rhodes Ridge Airport,-23.10829926,119.3330002
+,Ringer Soak Airport,-18.78860092,128.6239929
+,Rudal River Airport,-22.54999924,122.1500015
+RHL,Roy Hill Station Airport,-22.62581589,119.9590302
+,Sandhill Airport,-22.79999924,119.6169968
+,Shannon River Airport,-34.75,116.4830017
+,Sylvania Homestead Airport,-23.55830002,120.0469971
+,Sunrise Dam Airport,-29.10169983,122.4499969
+TBL,Tableland Homestead Airport,-17.2833004,126.9000015
+,Three Rivers Homestead Airport,-25.13330078,119.1169968
+,Thevenard Island Airport,-21.4666996,115
+,Tjuntjuntjarra Airport,-29.35829926,127.1279984
+,Tamala Airport,-26.66670036,113.7330017
+,Turee Creek Airport,-23.61669922,118.6169968
+,Tuckabiana Airport,-27.47500038,118.125
+,Waldburg Homestead Airport,-24.75,117.3669968
+WND,Windarra Airport,-28.47500038,122.2419968
+,Wodgina Airport,-21.14170074,118.6920013
+,Wooleen Homestead Airport,-27.08169937,116.1500015
+,Well 33 Airport,-22.36669922,124.7669983
+,Western Field Airport,-19.2833004,125.4169998
+,Wongawol Airport,-26.13330078,121.9670029
+,Williambury Airport,-23.86669922,115.1500015
+,Woorlba Airport,-32.40000153,124.0329971
+,Walpole Airport,-34.95000076,116.6999969
+,Winning Pool North Airport,-23.10000038,114.5329971
+,Yandicoogina Airport,-22.75970078,119.2269974
+,Yandee Airport,-21.33329964,118.8669968
+,Yundamindera Airport,-29.11669922,122.0329971
+,Yerilla Airport,-29.46759987,121.8300018
+,Yagga Yagga Airport,-20.8906002,127.9489975
+,Yallalong Homestead Airport,-27.42630005,115.5179977
+,Yanrey Airport,-22.51670074,114.8000031
+,Yamarna Airport,-28.15399933,123.6729965
+,Yarlarweelor Airport,-25.45829964,117.9749985
+,Yuinmery Airport,-28.56299973,119.0189972
+,Northcliffe Airstrips (needs confirmation),-34.6590004,116.1520004
+,Yuin Station,-27.98333359,116.0333328
+,Agnes Water Airport,-24.20224,151.8925
+AGW,Agnew Airport,-12.14560032,142.1490021
+AYD,Alroy Downs Airport,-19.29080009,136.0789948
+,Althorpe Lighthouse Airstrip,-35.37070084,136.8609924
+TTX,Truscott-Mungalalu Airport,-14.08969975,126.3809967
+,Avoca Airport,-41.78170013,147.7194061
+BQW,Balgo Hill Airport,-20.1483,127.973
+,Bamboo Creek Airport,-20.94459915,120.1650009
+NMP,New Moon Airport,-19.2,145.773
+BEE,Beagle Bay Airport,-17.0165,122.6464
+,Berwick Airport,-38.03977689,145.3360319
+BBE,Big Bell Airport,-27.32859993,117.6729965
+,Bordertown Airport,-36.26499939,140.7120056
+,Cabramurra Airport,-35.92688751,148.3925476
+,Cannon Hill Community Airport,-12.3549,132.94495
+CBY,Canobie Airport,-19.47940063,140.927002
+,Capella Airport,-23.10000038,148.0330048
+CRY,Carlton Hill Airport,-15.50189972,128.5339966
+CFP,Carpentaria Downs Airport,-18.7166996,144.3170013
+CRH,Cherrabah Airport,-28.4301,152.08895
+CXQ,Christmas Creek Station Airport,-18.8728,125.9338
+CFH,Clifton Hills Airport,-27.0182991,138.8919983
+COY,Coolawanyah Airport,-21.7946,117.755
+COB,Coolibah Airport,-15.54829979,130.9620056
+CJF,Coondewanna Airport,-22.9666996,118.8130035
+CRJ,Coorabie Airport,-31.89439964,132.2960052
+ODL,Cordillo Downs Airport,-26.74530029,140.6380005
+CSD,Cresswell Downs Airport,-17.94799995,135.9160004
+,Denmark Airport,-34.94499969,117.3970032
+DRD,Dorunda Airport,-16.5537,141.8238
+DFP,Drumduff Airport,-16.0529995,143.0119934
+DLK,Dulkaninna Airport,-29.01329994,138.4810028
+EIH,Einasleigh Airport,-18.50329971,144.0939941
+,Elliott Airport,-17.52742958,133.529892
+ENB,Eneabba Airport,-29.83250046,115.2460022
+,Enoggera Barracks,-27.42352848,152.9834282
+ETD,Etadunna Airport,-28.74080086,138.5890045
+EVD,Eva Downs Airport,-18.00099945,134.8630066
+FIK,Finke Airport,-25.59469986,134.5829926
+,Fiskville Airport,-37.67811432,144.2207909
+,Frankland Airport,-34.42300034,117.026001
+GSC,Gascoyne Junction Airport,-25.0546,115.2026
+,Gatton Campus Airport,-27.56040607,152.3404598
+,West Maitland Airport,-32.75669861,151.5299988
+GDD,Gordon Downs Airport,-18.67810059,128.5919952
+,Gosford Hospital Helipad,-33.421626,151.339894
+GFE,Grenfell Airport,-34,148.1329956
+,Harrismith Airport,-32.94184494,117.865448
+HLL,Hillside Airport,-21.7244,119.3922
+,Hodgeson River Airfield,-15.54594,134.0956
+,Elliston Airport,-33.63830185,134.8999939
+,Cardabia Station Airstrip,-23.10602379,113.8052292
+,Inglewood Airport,-28.4188,151.0955
+INJ,Injune Airport,-25.851,148.5497
+IVW,Inverway Airport,-17.84110069,129.6430054
+,Jervis Bay Airport,-35.14720154,150.6970062
+KPP,Kalpowar Airport,-14.89,144.22
+KDB,Kambalda Airport,-31.1907,121.5978
+KBD,Kimberley Downs Airport,-17.39780045,124.3550034
+KBB,Kirkimbie Station Airport,-17.7791996,129.2100067
+KKP,Koolburra Airport,-15.31890011,143.9550018
+,Kukerin,-33.17490005,118.0849991
+KGR,Kulgera Airport,-25.84280014,133.2920074
+BZP,Bizant Airport,-14.74027778,144.1194444
+LKD,Lakeland Airport,-15.83329964,144.8500061
+,Lakeside Airpark,-20.68169975,148.628006
+,Lancelin Airport,-31.01666667,115.3333333
+LIB,Limbunya Airport,-17.23559952,129.8820038
+LDC,Lindeman Island Airport,-20.45359993,149.0399933
+LOC,Lock Airport,-33.5442009,135.6929932
+LTV,Lotus Vale Airport,-17.04829979,141.3760071
+,Louth Airport,-30.54170036,145.1000061
+LTP,Lyndhurst Airport,-19.19580078,144.3710022
+MQA,Mandora Airport,-19.73830032,120.8379974
+MXD,Marion Downs Airport,-23.363702,139.649663
+MQE,Marqua Airport,-22.80579948,137.2510071
+,Plenty Airport,-37.72330093,145.1130066
+MLV,Merluna Airport,-13.0649,142.4536
+,Middlebrook Station Scone Airstrip,-31.97116852,150.8114777
+,Cradle Mountain Airport,-41.58123136,145.9383488
+MWY,Miranda Downs Airport,-17.328899,141.886002
+MIH,Mitchell Plateau Airport,-14.79139996,125.8239975
+MWT,Moolawatana Airport,-29.9069,139.765
+MET,Moreton Airport,-12.44419956,142.6380005
+,Moulamein Airport,-35.05838561,144.0213203
+GSN,Mount Gunson Airport,-31.4597,137.1744433
+MUQ,Muccan Station Airport,-20.65889931,120.0670013
+,Hedlow Airport,-23.22310066,150.6049957
+MVK,Mulka Airport,-28.3477993,138.6499939
+,Mundrabilla Airport,-31.86720085,127.8539963
+MNE,Mungeranie Airport,-28.00919914,138.6569977
+,Mungo Lodge Airport,-33.74582445,143.0013084
+WUI,Murrin Murrin Airport,-28.705299,121.89099
+MVU,Musgrave Airport,-14.7757,143.5047
+,Nammuldi Mine Airstrip,-22.39186,117.37623
+NPP,Napperby Airport,-22.5312,132.7632
+DXD,Dixie Airport,-15.11749443,143.3160496
+,Gallipolli Airport,-19.14181,137.87412
+UTD,Nutwood Downs Airport,-15.8074,134.1459
+ODR,Ord River Airport,-17.34079933,128.9120026
+,Pakenham Airport,-38.0992059,145.4878235
+PRD,Pardoo Airport,-20.11750031,119.5899963
+,Patjarr Airport,-24.6189003,126.3270035
+PEY,Penong Airport,-31.91670036,133
+PEP,Peppimenarti Airport,-14.14420033,130.0910034
+,Pinjarra North Airstrip,-32.58039856,115.8850021
+,Ingelara Airport,-24.99702703,148.3332825
+RDA,Rockhampton Downs Airport,-18.95330048,135.201004
+RPB,Roper Bar Airport,-14.734814,134.525485
+NDS,Sandstone Airport,-27.97999954,119.2969971
+SWB,Shaw River Airport,-21.51029968,119.3619995
+,Siam Airport,-32.55749893,136.7089996
+,Dochra Airfield,-32.650002,151.207993
+ZVG,Springvale Airport,-17.78689957,127.6699982
+SRR,Dunwich Airport,-27.51670074,153.4279938
+,Stuart Creek Airport,-29.7166996,137.0630035
+SSK,Sturt Creek Airport,-19.16640091,128.173996
+TXR,Tanbar Airport,-25.8477993,141.9279938
+TAQ,Tarcoola Airport,-30.70330048,134.5839996
+TDN,Theda Station Airport,-14.78810024,126.4960022
+,Tilpa Airport,-30.93330002,144.4170074
+TWP,Torwood Airport,-17.36330032,143.75
+TQP,Trepell Airport,-21.83499908,140.8880005
+TKY,Turkey Creek Airport,-17.04080009,128.2059937
+,Ucharonidge Airport,-17.67240143,134.2409058
+WLA,Wallal Airport,-19.77359962,120.6490021
+,Wanarn Airport,-25.29755211,127.5564194
+MFL,Mount Full Stop Airport,-19.67,144.8852
+,Giles Airport,-25.04369926,128.2960052
+,Warroora Homestead Airport,-23.44609,113.84853
+,Wauchope Airport,-20.64999962,134.2169952
+,RAAF Scherger,-12.62390041,142.0870056
+,Westmead Hospital Helipad,-33.80521011,150.9892731
+WWI,Woodie Woodie Airport,-21.66279984,121.2340012
+YLG,Yalgoo Airport,-28.3553009,116.6839981
+,Wollongong Heliport,-34.43999863,150.8970032
+,Yarra Bank Heliport,-37.822287,144.956792
+,RAAF Base Glenbrook,-33.761633,150.636255
+,Bromelton Airport,-27.96829987,152.8999939
+,Yarrowee Airport,-37.74000168,143.753006
+,Hopetoun Airfield,-33.90850067,120.1470032
+,Binda,-34.30333333,149.36
+,Bunyan Airfield,-36.13420084,149.1319799
+,Tabulam Oval Helipad,-28.8903,152.5678
+,Toonumbar Dam Helipad,-28.61835,152.79353
+,Bentinck Island Airport,-17.08670235,139.5657806
+,Kooringal Airstrip,-27.34583333,153.4258333
+,Coominya,-27.39074477,152.4665451
+,Palmyra Airstrip,-21.21157,149.07654
+,Lake Eyre North,-28.41666667,137.3
+,Trawalla Airport,-37.43874736,143.4589577
+,Pomonal Airstrip,-37.230559,142.677165
+,Beaufort,-37.495,143.43
+,Lake Omeo Dry Lake Ultralightport,-36.96175738,147.6727295
+,Snowy Range Airfield,-37.34857341,146.7660463
+,Avon Valley NP Airstrip,-31.60554886,116.2613144
+,Tardun Christian Brothers airfield,-28.70870018,115.8176498
+,New Norcia North,-30.92100274,116.2399864
+,Abrolhos Island,-28.4754063,113.6891842
+,Yardie Homestead,-21.88404026,114.0065646
+OCM,Boolgeeda,-22.54,117.275
+WLP,West Angelas Airport,-23.13555556,118.7072222
+CBC,Cherrabun Airport,-18.91777778,125.5377778
+DGD,Dalgaranga Gold Mine Airport,-27.83027778,117.3163889
+,Wheeler Drome,-32.786914,115.910386
+,Unknown Farm Strip,-33.094903,115.717181
+,Nova Airport,-31.845857,123.192246
+,Adelaide River Heliport,-13.2362,131.10796
+,Albury Base Hospital Helipad,-36.079212,146.938565
+RCN,American River Airport,-35.7574,137.7759
+,Amity Heliport,-27.4031,153.44
+ANZ,Angus Downs Airport,-25.0325,132.2748
+,Appin Colliery Helipad,-34.2098,150.7914
+,West Cliff Colliery Helipad,-34.234073,150.829822
+AGY,Argyle Downs Airport,-16.514,128.9245
+,Armidale - Lambert Park Helipad,-30.5113,151.6552
+,Baryulgil Airstrip,-29.21829,152.61611
+,Longford Heliport,-38.21962,147.16922
+,Batemans Bay Helipad,-35.71301,150.1872
+,Beaudesert Hospital Helipad,-27.98571,153.002345
+BCZ,Milyakburra Airport,-13.78083333,136.2016667
+,Biggenden Hospital Helipad,-25.506941,152.050651
+,Blackheath - NPWS Helipad,-33.628062,150.306706
+,Blackwater Hospital Helipad,-23.57128,148.877856
+,Bowen Hospital Helipad,-20.00657,148.24026
+,Bowral - Loseby Park Helicopter Landing Site,-34.4867,150.4228
+,Bowraville Oval Helicopter Landing Site,-30.6477,152.8483
+,Braidwood Helicopter Landing Site,-35.448,149.8011
+,Mater Hospital Helipad,-27.48543,153.02839
+,Prince Charles Hospital Helipad,-27.38761,153.02411
+,Princess Alexandra Hospital Helipad,-27.50018,153.0338
+,Royal Brisbane Hospital Helipad Alpha,-27.44705,153.02827
+,Royal Brisbane Hospital Helipad Charlie,-27.44993,153.02759
+,Brisbane Water Police Helipad,-27.40104,153.16415
+,Brooklyn Oval Helicopter Landing Site,-33.5473,151.215684
+,Brooklyn TMC - Olivers Garage Helipad,-33.5562,151.1936
+,Brooms Head Heliport,-29.6068,153.332
+,Bulahdelah Helicopter Landing Site,-32.4,152.2
+,Delara Airfield,-13.66875,134.2911
+,Bulwer Heliport,-27.07233,153.36748
+,Bundaberg Base Hospital Helipad,-24.869446,152.335045
+,Caboolture Hospital Helipad,-27.07955,152.96293
+,Calvary - Bruce Oval Helipad,-35.247,149.0927
+,Canberra Hospital Helipad,-35.343777,149.099953
+,Carnungra-Moriarity Park HLS,-28.0186,153.1598
+,Carmila Town Helicopter Landing Site,-21.9092,149.417
+,Gold Coast Life Saver Base,-28.00345,153.3626
+,Robertson Airstrip,-34.6449,150.6421
+,Cherbourg Hospital Helipad,-26.29124,151.95742
+,Chinchilla Hospital Helipad,-26.74066,150.63425
+,Chittering Airstrip,-31.52119082,116.1472893
+,Churchable Airstrip,-27.429915,152.378454
+,Clairview Heliport,-22.09246,149.51908
+,Clare Valley Aerodrome,-33.710837,138.587367
+,Clermont Hospital Helipad,-22.82707,147.63124
+,Redland Hospital Helicopter Landing Site,-27.5346,153.2606
+,Long Reef Helipad,-33.73922,151.31033
+,Collinsville Hospital Helipad,-20.546745,147.837734
+,Cooma Hospital Helipad,-36.242155,149.130147
+,Copmanhurst Oval Helipad,-29.5892,152.77316
+,Couran Cove Resort Helipad,-27.8239,153.4092
+,Wanda Beach Helipad,-34.040487,151.1635
+,Crows Nest Helipad,-27.2649,152.0587
+,Cunningham Gap Helipad,-28.0479,152.4457
+,Dalby Hospital Helipad,-27.16713,151.27692
+,Delatite Airstrip,-37.145053,146.159431
+,Denman Helicopter Landing Site,-32.3868,150.682
+,Dingo Airstrip,-23.655,149.338
+,Dorrigo Helipad,-30.3422,152.7092
+,Drake Oval Helicopter Landing Site,-28.9257,152.3762
+,Duaringa Airstrip,-23.7372,149.6647
+,Dululu Helicopter Landing Site,-23.8479,150.2625
+,Dunwich Hospital Helipad,-27.49696,153.399233
+,Dysart Hospital Helipad,-22.582854,148.353544
+,Eidsvold Hospital Helipad,-25.382466,151.125
+ERQ,Elrose Airport,-20.9764,141.0066
+,Emerald Hospital Helicopter Landing Site,-23.5166,148.1539
+,Esk Hospital Helipad,-27.24086,152.418
+,Eurong Heliport,-25.505,153.1292
+,Fairfield Hospital Helipad,-33.859012,150.905447
+FVR,Oombulgurri Airport,-15.1647,127.8401
+,Forster Hospital Helipad,-32.188357,152.51321
+FSL,Fossil Downs Airport,-18.1321,125.7873
+,Frankland Valley Vineyard,-34.34769821,116.9520035
+,Happy Valley Heliport,-25.3363,153.2019
+,Orchid Beach Resort Helipad,-24.96,153.3154
+,Toby's Gap Airstrip,-25.5887,153.0646
+,Gatton Showgrounds Helicopter Landing Site,-27.56,152.282
+,Gayndah Hospital Helipad,-25.63202,151.60475
+,Gilgandra Multi Purpose Service Helipad,-31.7039,148.665225
+GBW,Ginbata Airport,-22.5812,120.03553
+,Gisborne Helipad,-37.484153,144.585626
+,Gladstone Hospital Helipad,-23.8499,151.24855
+,Facing Island Farmers Cove Helicopter Landing Site,-23.7738,151.3269
+,Glen Innes - Rugby Park Heliport,-29.7302,151.7364
+,Glenbrook NPWS Heliport,-33.7876,150.6085
+,Glenden Township Heliport,-21.3608,148.1153
+,Pindarra Hospital Helipad,-28.008,153.3924
+,Gold Coast Water Police Helicopter Landing Site,-27.97,153.427
+,Goomeri Oval Helicopter Landing Site,-26.1795,152.0658
+,Boggabilla Fuel Depot Landing Site,-28.6089,150.352
+,Boggabilla Airstrip,-28.6172,150.3324
+,Goondiwindi Hospital Helipad,-28.547905,150.30117
+,Goulburn Hospital Helipad,-34.74803,149.71235
+,Grafton Hospital Helipad,-29.67357,152.94074
+,Gunnedah Hospital Helipad,-30.98283,150.25223
+,Archery Park Helipad,-26.1886,152.6527
+,Hayman Island Heliport,-20.0599,148.8834
+,Heron Island Helipad,-23.441765,151.911416
+,Hervey Bay Hospital Helipad,-25.299416,152.820239
+,Hook Island Helipad,-20.1574,148.9481
+HPE,Hope Vale Airport,-15.2923,145.1035
+,Horse Hair Plain Aerodrome,-37.0331,147.3055
+,Inglewood Hospital Helipad,-28.41819,151.061255
+,Inverell Hospital Helipad,-29.771624,151.13098
+,Jandowae Hospital Heliport,-26.7814,151.10473
+,Perisher Valley Medical Centre Helipad,-36.40515,148.41471
+KDS,Kamaran Downs Airport,-24.3388,139.2785
+PDN,Parndana Airport,-35.807,137.264
+,Blue Mountains Hospital Helipad,-33.705262,150.322369
+,Kempsey Hospital Helicopter Landing Site,-31.067128,152.821257
+,Kulin Bush Races Strip,-32.66444444,118.3108333
+,Kurri Hospital Helipad,-32.82569,151.46279
+KRD,Kurundi Airport,-20.51,134.6706
+,Kyogle Hospital Helipad,-28.62822,153.00193
+,Laidley Hospital Helipad,-27.63258,152.39924
+LGE,Mulan Airport,-20.1089,127.619
+LDW,Lansdowne Airport,-17.6128,126.743
+LTB,Latrobe Airport,-41.23518803,146.3961697
+,Leeton Showground Heliport,-34.56,146.405
+,Lismore - Mortimer Oval Helicopter Landing Site,-28.808344,153.284455
+,Lismore Helibase,-28.801211,153.288242
+LLL,Lissadell Airport,-16.661,128.594
+,Lithgow Hospital Helipad,-33.49942,150.1287
+,Baal Bone Colliery Helipad,-33.26958,150.05846
+,Liverpool Hospital Helipad Alpha,-33.9204,150.9312
+,Happy Bay Helipad,-20.3358,148.8525
+,Mackay Base Hospital Helipad,-21.14543,149.15445
+,Macksville Park Helicopter Landing Site,-30.7104,152.9213
+,Maclean Hospital Helipad,-29.45373,153.20143
+MIZ,Mainoru Airstrip,-14.0533,134.0942
+,Alfred Hospital Helipad,-37.84526,144.9813
+,Royal Childrens Hospital Helipad,-37.794058,144.951309
+,Royal Melbourne Hospital Helipad,-37.799243,144.95593
+,Merriwa Hospital Helipad,-32.14338,150.3609
+,Sutherland Hospital Helipad,-34.038783,151.1156
+,Mona Vale Hospital Helipad,-33.68512,151.30824
+MRT,Moroak Airport,-14.818133,133.700594
+,Huntfield Airfield,-35.17254545,138.4936094
+,Moruya Hospital Helipad,-35.90397,150.06946
+,Mount Druitt Hospital Heliport,-33.766232,150.830663
+GPD,Mount Gordon Airport,-19.77265,139.40425
+,Mudgee Hospital Helipad,-32.602546,149.588067
+,Mullumbimby Hospital Helipad,-28.559347,153.49219
+,Munduberra Hospital Helipad,-25.58815,151.29319
+,Murgenella Airstrip,-11.5494,132.9142
+,Murgon Hospital Helipad,-26.23842,151.95095
+,Hutt River Airstrip,-28.07122297,114.4773674
+,Nambour Hospital Helipad,-26.62053,152.95095
+,Nanango Hospital Helipad,-26.6659,152.00757
+,Hail Creek Mine Heliport,-21.4888,148.3585
+,Nelson Bay Heliport,-32.7167,152.1548
+,New Norcia airstrip,-30.96663,116.21547
+,John Hunter Hospital Helipad,-32.924048,151.693415
+,Newcastle Regional Heliport,-32.87909,151.72803
+NRY,Newry Airport,-16.0442,129.2638
+,Noosa Hospital Helipad,-26.40259,153.04569
+,Nowra Hospital Helipad,-34.86978,150.59553
+,Oberon Heliport,-33.7007,149.856
+,Olinda (DSE) Helibase,-37.8594,145.3766
+,Orange Hospital Helipad,-33.316724,149.092652
+,Orange - Careflight Base Heliport,-33.30368,149.12098
+OXO,Orientos Airport,-28.0598,141.5361
+PXH,Prominent Hill Airport,-29.716,135.5244
+,Parkes Hospital Helipad,-33.12703,148.16999
+,Peak Hill Hospital Helipad,-32.7362,148.19978
+,Nepean Hospital Helipad,-33.76038,150.71154
+,Sikorsky Helitech Heliport,-27.433,153.115
+,Port Macquarie Hospital Helipad,-31.452683,152.88076
+,Proserpine Hospital Helipad,-20.39912,148.5855
+BXF,Bellburn Airstrip,-17.545,128.305
+,Quirindi Hospital Helipad,-31.50107,150.676606
+,Facing Island - Gatcomb Head Helipad,-23.8758,151.3718
+RKY,Rokeby Airport,-13.6434,142.641
+RPV,Roper Valley Airport,-14.9215,134.05
+RLP,Rosella Plains Airport,-18.4253,144.4587
+,Rylstone Hospital Helipad,-32.803975,149.975076
+SRM,Sandringham Airport,-24.0568,139.0821
+,Scone Hospital Helipad,-32.050268,150.877663
+,Seventeen Seventy Heliport,-24.1828,151.8826
+,Shellharbour Hospital Helipad,-34.55989,150.84173
+,Sherlock Ultralight Airfield,-35.32027778,139.7925222
+,Royal Prince Alfred Hospital Helipad,-33.88933182,151.1836853
+,Royal North Shore Hospital Helipad,-33.82225037,151.1896362
+SSP,Silver Plains Airport,-13.9754,143.5537
+,Singleton Hospital Helipad,-32.56708,151.186865
+SOI,South Molle Island Helipad,-20.2622,148.8399
+,South West Rocks Airport,-30.9246,153.0276
+STF,Stephens Island Seaplane Base,-9.51,143.55
+,St Vincents - Victoria Barracks Helipad,-33.88525,151.22343
+RSE,Rose Bay Seaplane Base,-33.869,151.262
+LBH,Palm Beach Seaplane Base,-33.5871,151.3234
+,Tamworth Hospital Helipad,-31.07457,150.92641
+,Taree - Wrigley Park Helipad,-31.9064,152.4508
+,Tenterfield - Federation Park Heliport,-29.048,152.0164
+,Pickertaramoor Airstrip,-11.7622,130.8809
+,Trundle Hospital Helicopter Landing Site,-32.9217,147.7067
+,Tucabia Oval Helicopter Landing Site,-29.66,153.1056
+,Tumbarumba Airport,-35.7626038,147.886885
+,Tumut Hospital Helipad,-35.308,148.2191
+,The Tweed Hospital Helipad,-28.17769,153.5466
+,Bowen Downs Airport,-22.4641,144.99785
+,Urbenville Helipad,-28.46907,152.55133
+,Wagga - Duke of Kent Oval Helipad,-35.11434,147.3541
+,Sydney Adventist Hospital Helipad,-33.733386,151.100006
+,Warroora Station Airstrip,-23.47487,113.79925
+,Dexfield Park,-31.42166667,152.7583333
+WAN,Waverney Airport,-25.3563,141.9254
+,Wee Waa Hospital Helipad,-30.225,149.4483
+,Wellington-Rygate Park Heliport,-32.5487,148.9497
+,Cowal Gold Mine Helipad,-33.6553,147.40036
+,Westmead NETS Base Hospital Heliport,-33.802749,150.990223
+,Daydream Island Helipad,-20.2603,148.8136
+WRN,Windarling Airport,-30.031667,119.39
+,Hawkesbury Hospital Helipad,-33.61058,150.8215
+,Wollongong Hospital Helipad,-34.42419,150.8822
+,Woodycupaldiya Airfield,-13.8665,129.988
+,Wyong Hospital Helipad,-33.26025,151.48069
+,Young Hospital Helipad,-34.32094,148.28798
